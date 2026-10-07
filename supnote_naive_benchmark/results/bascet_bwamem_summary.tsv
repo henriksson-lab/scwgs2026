@@ -1,0 +1,10 @@
+metric	value	unit
+batch_pairs	10000	pairs
+total_pairs	800000000	pairs
+batches	80000	invocations
+threads	10	threads_per_invocation
+median_startup	10.484070	seconds
+median_10k_batch_total	52.052002	seconds
+median_10k_alignment_increment	41.567932	seconds
+projected_separate_batches	1156.711164	hours
+projected_persistent_process	923.734735	hours

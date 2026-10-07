@@ -1,0 +1,11 @@
+"method","resolution","species_aln_short","0","1","2","3","4","5","6","7","8","9"
+"alignment",0.001,"Bacillus pacificus",0,0,0,0,0,0,0,0,0,1000
+"alignment",0.001,"Bifidobacterium adolescentis",0,0,0,0,1000,0,0,0,0,0
+"alignment",0.001,"Cereibacter sphaeroides",0,0,0,0,0,0,0,0,1000,0
+"alignment",0.001,"Clostridium beijerinckii",0,1000,0,0,0,0,0,0,0,0
+"alignment",0.001,"Deinococcus radiodurans",0,0,0,0,0,0,0,1000,0,0
+"alignment",0.001,"Enterococcus faecalis",0,0,0,0,0,0,1000,0,0,0
+"alignment",0.001,"Escherichia coli",0,0,0,0,0,1000,0,0,0,0
+"alignment",0.001,"Lactobacillus gasseri",0,0,0,1000,0,0,0,0,0,0
+"alignment",0.001,"Staphylococcus epidermidis",0,0,1000,0,0,0,0,0,0,0
+"alignment",0.001,"Streptococcus mutans",1000,0,0,0,0,0,0,0,0,0

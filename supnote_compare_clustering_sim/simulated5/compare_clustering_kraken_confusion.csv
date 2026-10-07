@@ -1,0 +1,11 @@
+"method","resolution","species_aln_short","0","1","2","3","4","5","6","7","8","9"
+"kraken",0.2,"Bacillus pacificus",2,0,0,0,0,998,0,0,0,0
+"kraken",0.2,"Bifidobacterium adolescentis",1000,0,0,0,0,0,0,0,0,0
+"kraken",0.2,"Cereibacter sphaeroides",4,0,0,0,0,0,0,0,996,0
+"kraken",0.2,"Clostridium beijerinckii",5,994,0,0,0,0,0,0,0,0
+"kraken",0.2,"Deinococcus radiodurans",2,0,0,0,0,0,998,0,0,0
+"kraken",0.2,"Enterococcus faecalis",0,4,0,0,0,0,0,0,0,995
+"kraken",0.2,"Escherichia coli",0,0,1000,0,0,0,0,0,0,0
+"kraken",0.2,"Lactobacillus gasseri",1,0,0,0,999,0,0,0,0,0
+"kraken",0.2,"Staphylococcus epidermidis",0,3,0,0,0,0,0,997,0,0
+"kraken",0.2,"Streptococcus mutans",0,0,0,999,0,0,0,0,0,0

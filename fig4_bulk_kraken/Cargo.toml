@@ -1,0 +1,10 @@
+[package]
+name = "tax_hist"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1"
+arrow = "55"
+clap = { version = "4", features = ["derive"] }
+noodles = { version = "0.97.0", features = ["bam", "bgzf", "sam"] }

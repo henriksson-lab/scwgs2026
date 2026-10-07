@@ -1,0 +1,697 @@
+logs/Z_kraken_fq.0.log:2026-05-09T19:34:10.877052Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=18.334821078s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.0.log:2026-05-09T19:34:49.523939Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=57.024503397s
+logs/Z_kraken_fq.1.log:2026-05-09T19:34:09.401267Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=17.470515885s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.1.log:2026-05-09T19:35:01.908205Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=70.0771522s
+logs/Z_kraken_fq.10.log:2026-05-09T19:34:29.913317Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=27.606426171s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.10.log:2026-05-09T19:35:10.166877Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=68.018289836s
+logs/Z_kraken_fq.11.log:2026-05-09T19:34:29.373682Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=27.066776722s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.11.log:2026-05-09T19:35:17.134131Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=74.985563518s
+logs/Z_kraken_fq.12.log:2026-05-09T19:34:26.177386Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=24.445188743s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.13.log:2026-05-09T19:34:25.432390Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=23.700188362s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.13.log:2026-05-09T19:38:20.082392Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=258.439978067s
+logs/Z_kraken_fq.14.log:2026-05-09T19:34:13.376321Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=22.142715023s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.14.log:2026-05-09T19:34:46.699816Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=55.650116129s
+logs/Z_kraken_fq.15.log:2026-05-09T19:34:13.480096Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=22.246450865s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.15.log:2026-05-09T19:34:59.575703Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=68.525973912s
+logs/Z_kraken_fq.16.log:2026-05-09T19:34:30.517595Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=27.280530366s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.16.log:2026-05-09T19:35:02.811538Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=59.713492535s
+logs/Z_kraken_fq.17.log:2026-05-09T19:34:29.559457Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=26.3223807s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.18.log:2026-05-09T19:34:13.437896Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=22.011415297s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.18.log:2026-05-09T19:34:56.692345Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=65.340677658s
+logs/Z_kraken_fq.19.log:2026-05-09T19:34:15.478046Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=24.051563796s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.19.log:2026-05-09T19:34:59.024307Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=67.672629905s
+logs/Z_kraken_fq.2.log:2026-05-09T19:34:10.199871Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=17.780586787s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.2.log:2026-05-09T19:34:53.127946Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=60.715333016s
+logs/Z_kraken_fq.20.log:2026-05-09T19:34:28.548107Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=26.278698508s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.20.log:2026-05-09T19:35:01.343063Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=59.293198651s
+logs/Z_kraken_fq.21.log:2026-05-09T19:34:29.384147Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=27.114685673s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.22.log:2026-05-09T19:34:15.957364Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=23.367627198s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.22.log:2026-05-09T19:34:54.913047Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=62.416696035s
+logs/Z_kraken_fq.23.log:2026-05-09T19:34:29.372658Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=27.779531952s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.23.log:2026-05-09T19:35:01.017679Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=59.528129904s
+logs/Z_kraken_fq.24.log:2026-05-09T19:34:28.678999Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=27.085870613s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.25.log:2026-05-09T19:34:25.575462Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=26.942413325s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.26.log:2026-05-09T19:34:28.781264Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=27.001286139s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.27.log:2026-05-09T19:34:29.309353Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=27.529387382s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.27.log:2026-05-09T19:35:37.369562Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=95.675137736s
+logs/Z_kraken_fq.28.log:2026-05-09T19:34:25.003779Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=25.107422343s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.29.log:2026-05-09T19:34:25.694744Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=25.798341302s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.29.log:2026-05-09T19:35:12.331684Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=72.573957242s
+logs/Z_kraken_fq.3.log:2026-05-09T19:34:10.232551Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=17.812907539s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.3.log:2026-05-09T19:35:01.159016Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=68.74558914s
+logs/Z_kraken_fq.30.log:2026-05-09T19:34:28.445803Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=26.3532593s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.30.log:2026-05-09T19:35:10.129519Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=68.183698655s
+logs/Z_kraken_fq.31.log:2026-05-09T19:34:29.194586Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=27.102052955s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.31.log:2026-05-09T19:35:23.817434Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=81.871595997s
+logs/Z_kraken_fq.32.log:2026-05-09T19:34:28.494227Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=26.717924561s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.32.log:2026-05-09T19:35:13.942101Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=72.249883586s
+logs/Z_kraken_fq.33.log:2026-05-09T19:34:29.073987Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=27.297689361s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.34.log:2026-05-09T19:34:27.417087Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=25.548344841s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.35.log:2026-05-09T19:34:28.064984Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=26.19623513s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.35.log:2026-05-09T19:35:21.175020Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=79.426420717s
+logs/Z_kraken_fq.36.log:2026-05-09T19:34:14.895607Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=23.081401929s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.36.log:2026-05-09T19:34:48.306779Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=56.60763657s
+logs/Z_kraken_fq.37.log:2026-05-09T19:34:13.804412Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=21.990209991s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.37.log:2026-05-09T19:35:16.092745Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=84.393605542s
+logs/Z_kraken_fq.38.log:2026-05-09T19:34:13.801878Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=22.568303827s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.38.log:2026-05-09T19:34:53.980555Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=62.896081406s
+logs/Z_kraken_fq.39.log:2026-05-09T19:34:14.459258Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=23.225724429s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.39.log:2026-05-09T19:34:57.608020Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=66.523523025s
+logs/Z_kraken_fq.4.log:2026-05-09T19:34:10.218731Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=18.287968939s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.4.log:2026-05-09T19:34:50.443776Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=58.612703371s
+logs/Z_kraken_fq.5.log:2026-05-09T19:34:10.173038Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=18.242284498s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.5.log:2026-05-09T19:34:53.046853Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=61.215787205s
+logs/Z_kraken_fq.6.log:2026-05-09T19:34:10.925994Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=18.600266566s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.6.log:2026-05-09T19:34:53.119698Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=60.914924304s
+logs/Z_kraken_fq.7.log:2026-05-09T19:34:25.139821Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=24.591308811s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.7.log:2026-05-09T19:35:02.455540Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=62.04394724s
+logs/Z_kraken_fq.8.log:2026-05-09T19:34:26.113230Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=25.564776173s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.8.log:2026-05-09T19:35:17.950243Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=77.538660062s
+logs/Z_kraken_fq.9.log:2026-05-09T19:34:24.565218Z  INFO main ThreadId(01) bascet_cli::command::kraken: crates/bascet-cli/src/command/kraken.rs:734: KRAKEN2 database loaded db=/home/m/mahogny/mystore/atrandi/kraken_ref/standard-8 elapsed=25.900380522s rss_after_load=7.5 GiB rss_delta=7.5 GiB
+logs/Z_kraken_fq.9.log:2026-05-09T19:35:03.147037Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=64.578245768s
+logs/Zaln.0.log:2026-05-09T11:09:13.904064Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=4 elapsed_secs=50
+logs/Zaln.0.log:2026-05-09T11:09:25.780173Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=11
+logs/Zaln.0.log:2026-05-09T11:09:33.996588Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=19
+logs/Zaln.0.log:2026-05-09T11:09:42.493384Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=28
+logs/Zaln.0.log:2026-05-09T11:09:44.070762Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=31,710,029 elapsed_secs=29
+logs/Zaln.0.log:2026-05-09T11:09:44.698355Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=30
+logs/Zaln.0.log:2026-05-09T11:09:44.704379Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=472.128279222s
+logs/Zaln.1.log:2026-05-09T11:10:37.456962Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=6 elapsed_secs=59
+logs/Zaln.1.log:2026-05-09T11:10:45.685139Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=8
+logs/Zaln.1.log:2026-05-09T11:10:53.232957Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=15
+logs/Zaln.1.log:2026-05-09T11:11:01.019783Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=23
+logs/Zaln.1.log:2026-05-09T11:11:09.232554Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=40,000,000 elapsed_secs=31
+logs/Zaln.1.log:2026-05-09T11:11:16.106954Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=46,413,943 elapsed_secs=38
+logs/Zaln.1.log:2026-05-09T11:11:16.843450Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=39
+logs/Zaln.1.log:2026-05-09T11:11:16.845499Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=565.420467916s
+logs/Zaln.10.log:2026-05-09T11:09:42.665752Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=56
+logs/Zaln.10.log:2026-05-09T11:09:52.992296Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=10
+logs/Zaln.10.log:2026-05-09T11:10:00.347493Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=17
+logs/Zaln.10.log:2026-05-09T11:10:08.020497Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=25
+logs/Zaln.10.log:2026-05-09T11:10:15.919305Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=40,000,000 elapsed_secs=33
+logs/Zaln.10.log:2026-05-09T11:10:18.965564Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=41,775,135 elapsed_secs=36
+logs/Zaln.10.log:2026-05-09T11:10:19.734613Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=37
+logs/Zaln.10.log:2026-05-09T11:10:19.736681Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=508.00033848s
+logs/Zaln.11.log:2026-05-09T11:10:56.655609Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=6 elapsed_secs=62
+logs/Zaln.11.log:2026-05-09T11:11:04.731940Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=7
+logs/Zaln.11.log:2026-05-09T11:11:12.417155Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=15
+logs/Zaln.11.log:2026-05-09T11:11:20.384331Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=23
+logs/Zaln.11.log:2026-05-09T11:11:28.042520Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=40,000,000 elapsed_secs=31
+logs/Zaln.11.log:2026-05-09T11:11:36.482556Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=45,623,712 elapsed_secs=39
+logs/Zaln.11.log:2026-05-09T11:11:37.307563Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=40
+logs/Zaln.11.log:2026-05-09T11:11:37.310040Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=585.648530099s
+logs/Zaln.12.log:2026-05-09T11:08:32.898928Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=4 elapsed_secs=48
+logs/Zaln.12.log:2026-05-09T11:08:43.101578Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=10
+logs/Zaln.12.log:2026-05-09T11:08:50.482677Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=17
+logs/Zaln.12.log:2026-05-09T11:08:58.212448Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=25
+logs/Zaln.12.log:2026-05-09T11:09:03.490213Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=35,011,080 elapsed_secs=30
+logs/Zaln.12.log:2026-05-09T11:09:04.079142Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=31
+logs/Zaln.12.log:2026-05-09T11:09:04.081216Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=432.419756367s
+logs/Zaln.13.log:2026-05-09T11:11:26.092460Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=6 elapsed_secs=60
+logs/Zaln.13.log:2026-05-09T11:11:37.629574Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=11
+logs/Zaln.13.log:2026-05-09T11:11:46.760226Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=20
+logs/Zaln.13.log:2026-05-09T11:11:56.460640Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=30
+logs/Zaln.13.log:2026-05-09T11:12:05.478550Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=40,000,000 elapsed_secs=39
+logs/Zaln.13.log:2026-05-09T11:12:14.160672Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=46,419,126 elapsed_secs=47
+logs/Zaln.13.log:2026-05-09T11:12:14.976296Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=48
+logs/Zaln.13.log:2026-05-09T11:12:14.978141Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=623.316664835s
+logs/Zaln.14.log:2026-05-09T11:07:44.309366Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=4 elapsed_secs=41
+logs/Zaln.14.log:2026-05-09T11:07:55.713960Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=11
+logs/Zaln.14.log:2026-05-09T11:08:04.014241Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=19
+logs/Zaln.14.log:2026-05-09T11:08:12.426177Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=27
+logs/Zaln.14.log:2026-05-09T11:08:13.344353Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=31,030,597 elapsed_secs=28
+logs/Zaln.14.log:2026-05-09T11:08:13.847943Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=29
+logs/Zaln.14.log:2026-05-09T11:08:13.850078Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=382.188578002s
+logs/Zaln.15.log:2026-05-09T11:10:44.288536Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=6 elapsed_secs=51
+logs/Zaln.15.log:2026-05-09T11:10:53.303447Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=8
+logs/Zaln.15.log:2026-05-09T11:11:00.604379Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=16
+logs/Zaln.15.log:2026-05-09T11:11:08.264726Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=23
+logs/Zaln.15.log:2026-05-09T11:11:15.500875Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=40,000,000 elapsed_secs=31
+logs/Zaln.15.log:2026-05-09T11:11:23.377344Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=47,605,223 elapsed_secs=38
+logs/Zaln.15.log:2026-05-09T11:11:24.174835Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=39
+logs/Zaln.15.log:2026-05-09T11:11:24.176755Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=572.47604766s
+logs/Zaln.16.log:2026-05-09T11:07:57.829974Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=4 elapsed_secs=37
+logs/Zaln.16.log:2026-05-09T11:08:06.771226Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=8
+logs/Zaln.16.log:2026-05-09T11:08:14.303140Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=16
+logs/Zaln.16.log:2026-05-09T11:08:21.986985Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=24
+logs/Zaln.16.log:2026-05-09T11:08:23.064108Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=31,223,796 elapsed_secs=25
+logs/Zaln.16.log:2026-05-09T11:08:23.578163Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=25
+logs/Zaln.16.log:2026-05-09T11:08:23.579864Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=391.918392427s
+logs/Zaln.17.log:2026-05-09T11:09:18.331443Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=53
+logs/Zaln.17.log:2026-05-09T11:09:28.027888Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=9
+logs/Zaln.17.log:2026-05-09T11:09:35.510045Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=16
+logs/Zaln.17.log:2026-05-09T11:09:43.271747Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=24
+logs/Zaln.17.log:2026-05-09T11:09:49.333170Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=37,237,737 elapsed_secs=30
+logs/Zaln.17.log:2026-05-09T11:09:49.965747Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=31
+logs/Zaln.17.log:2026-05-09T11:09:49.967814Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=478.306347653s
+logs/Zaln.19.log:2026-05-09T11:07:34.742558Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=4 elapsed_secs=32
+logs/Zaln.19.log:2026-05-09T11:07:43.161259Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=8
+logs/Zaln.19.log:2026-05-09T11:07:50.636340Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=15
+logs/Zaln.19.log:2026-05-09T11:07:58.325304Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=23
+logs/Zaln.19.log:2026-05-09T11:07:59.465645Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=31,308,353 elapsed_secs=24
+logs/Zaln.19.log:2026-05-09T11:07:59.972545Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=25
+logs/Zaln.19.log:2026-05-09T11:07:59.974564Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=368.313074718s
+logs/Zaln.2.log:2026-05-09T11:08:47.986695Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=39
+logs/Zaln.2.log:2026-05-09T11:08:58.043825Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=9
+logs/Zaln.2.log:2026-05-09T11:09:05.512720Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=17
+logs/Zaln.2.log:2026-05-09T11:09:13.298611Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=25
+logs/Zaln.2.log:2026-05-09T11:09:19.658605Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=37,123,862 elapsed_secs=31
+logs/Zaln.2.log:2026-05-09T11:09:20.309858Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=32
+logs/Zaln.2.log:2026-05-09T11:09:20.312050Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=449.11635657s
+logs/Zaln.20.log:2026-05-09T11:08:26.048074Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=4 elapsed_secs=49
+logs/Zaln.20.log:2026-05-09T11:08:37.076840Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=10
+logs/Zaln.20.log:2026-05-09T11:08:44.594421Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=18
+logs/Zaln.20.log:2026-05-09T11:08:52.522697Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=26
+logs/Zaln.20.log:2026-05-09T11:08:55.815626Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=33,493,149 elapsed_secs=29
+logs/Zaln.20.log:2026-05-09T11:08:56.383890Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=30
+logs/Zaln.20.log:2026-05-09T11:08:56.385841Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=424.406919515s
+logs/Zaln.21.log:2026-05-09T11:09:39.097427Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=63
+logs/Zaln.21.log:2026-05-09T11:09:49.546292Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=10
+logs/Zaln.21.log:2026-05-09T11:09:57.805635Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=18
+logs/Zaln.21.log:2026-05-09T11:10:06.285707Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=26
+logs/Zaln.21.log:2026-05-09T11:10:16.281894Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=39,964,685 elapsed_secs=36
+logs/Zaln.21.log:2026-05-09T11:10:16.834432Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=37
+logs/Zaln.21.log:2026-05-09T11:10:16.842862Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=496.033998805s
+logs/Zaln.22.log:2026-05-09T11:09:52.674461Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=63
+logs/Zaln.22.log:2026-05-09T11:10:03.436364Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=10
+logs/Zaln.22.log:2026-05-09T11:10:11.403399Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=18
+logs/Zaln.22.log:2026-05-09T11:10:19.609929Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=26
+logs/Zaln.22.log:2026-05-09T11:10:28.193606Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=40,000,000 elapsed_secs=35
+logs/Zaln.22.log:2026-05-09T11:10:29.992654Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=41,744,403 elapsed_secs=37
+logs/Zaln.22.log:2026-05-09T11:10:30.528043Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=37
+logs/Zaln.22.log:2026-05-09T11:10:30.531422Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=508.084214111s
+logs/Zaln.23.log:2026-05-09T11:09:15.622458Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=4 elapsed_secs=55
+logs/Zaln.23.log:2026-05-09T11:09:24.924883Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=9
+logs/Zaln.23.log:2026-05-09T11:09:33.425266Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=17
+logs/Zaln.23.log:2026-05-09T11:09:41.960218Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=26
+logs/Zaln.23.log:2026-05-09T11:09:43.204232Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=31,255,197 elapsed_secs=27
+logs/Zaln.23.log:2026-05-09T11:09:43.625485Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=28
+logs/Zaln.23.log:2026-05-09T11:09:43.628874Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=461.181661633s
+logs/Zaln.24.log:2026-05-09T11:08:54.010049Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=55
+logs/Zaln.24.log:2026-05-09T11:09:05.242811Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=11
+logs/Zaln.24.log:2026-05-09T11:09:13.488093Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=19
+logs/Zaln.24.log:2026-05-09T11:09:22.123304Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=27
+logs/Zaln.24.log:2026-05-09T11:09:27.727480Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=36,364,902 elapsed_secs=33
+logs/Zaln.24.log:2026-05-09T11:09:28.202878Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=34
+logs/Zaln.24.log:2026-05-09T11:09:28.211678Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=455.741901267s
+logs/Zaln.25.log:2026-05-09T11:09:35.033924Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=4 elapsed_secs=62
+logs/Zaln.25.log:2026-05-09T11:09:44.536420Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=9
+logs/Zaln.25.log:2026-05-09T11:09:52.812466Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=17
+logs/Zaln.25.log:2026-05-09T11:10:01.244859Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=26
+logs/Zaln.25.log:2026-05-09T11:10:04.146907Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=33,368,476 elapsed_secs=29
+logs/Zaln.25.log:2026-05-09T11:10:04.576234Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=29
+logs/Zaln.25.log:2026-05-09T11:10:04.578856Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=492.10908591s
+logs/Zaln.26.log:2026-05-09T11:09:05.906968Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=63
+logs/Zaln.26.log:2026-05-09T11:09:17.834502Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=11
+logs/Zaln.26.log:2026-05-09T11:09:27.175143Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=21
+logs/Zaln.26.log:2026-05-09T11:09:36.698363Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=30
+logs/Zaln.26.log:2026-05-09T11:09:42.202924Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=35,863,279 elapsed_secs=36
+logs/Zaln.26.log:2026-05-09T11:09:42.676693Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=36
+logs/Zaln.26.log:2026-05-09T11:09:42.688110Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=459.384747623s
+logs/Zaln.27.log:2026-05-09T11:13:30.359430Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=6 elapsed_secs=91
+logs/Zaln.27.log:2026-05-09T11:13:42.954793Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=12
+logs/Zaln.27.log:2026-05-09T11:13:52.210624Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=21
+logs/Zaln.27.log:2026-05-09T11:14:02.395346Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=31
+logs/Zaln.27.log:2026-05-09T11:14:11.544385Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=40,000,000 elapsed_secs=40
+logs/Zaln.27.log:2026-05-09T11:14:23.106602Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=49,676,439 elapsed_secs=52
+logs/Zaln.27.log:2026-05-09T11:14:23.868527Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=53
+logs/Zaln.27.log:2026-05-09T11:14:23.874259Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=740.570888206s
+logs/Zaln.28.log:2026-05-09T11:09:11.747857Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=59
+logs/Zaln.28.log:2026-05-09T11:09:21.477737Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=9
+logs/Zaln.28.log:2026-05-09T11:09:29.349487Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=17
+logs/Zaln.28.log:2026-05-09T11:09:37.698771Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=25
+logs/Zaln.28.log:2026-05-09T11:09:43.460638Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=36,694,372 elapsed_secs=31
+logs/Zaln.28.log:2026-05-09T11:09:44.025496Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=32
+logs/Zaln.28.log:2026-05-09T11:09:44.042187Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=460.825087025s
+logs/Zaln.29.log:2026-05-09T11:09:30.775562Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=4 elapsed_secs=57
+logs/Zaln.29.log:2026-05-09T11:09:41.355610Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=10
+logs/Zaln.29.log:2026-05-09T11:09:49.619445Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=18
+logs/Zaln.29.log:2026-05-09T11:09:58.140468Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=27
+logs/Zaln.29.log:2026-05-09T11:10:00.086103Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=32,143,841 elapsed_secs=29
+logs/Zaln.29.log:2026-05-09T11:10:00.477287Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=29
+logs/Zaln.29.log:2026-05-09T11:10:00.480618Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=477.263497937s
+logs/Zaln.3.log:2026-05-09T11:11:07.543960Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=6 elapsed_secs=55
+logs/Zaln.3.log:2026-05-09T11:11:18.176861Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=10
+logs/Zaln.3.log:2026-05-09T11:11:25.905191Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=18
+logs/Zaln.3.log:2026-05-09T11:11:33.967416Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=26
+logs/Zaln.3.log:2026-05-09T11:11:41.607534Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=40,000,000 elapsed_secs=33
+logs/Zaln.3.log:2026-05-09T11:11:49.126042Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=47,503,023 elapsed_secs=41
+logs/Zaln.3.log:2026-05-09T11:11:49.936067Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=42
+logs/Zaln.3.log:2026-05-09T11:11:49.937534Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=598.784557929s
+logs/Zaln.30.log:2026-05-09T11:10:03.937769Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=64
+logs/Zaln.30.log:2026-05-09T11:10:15.932369Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=11
+logs/Zaln.30.log:2026-05-09T11:10:25.489413Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=21
+logs/Zaln.30.log:2026-05-09T11:10:35.402128Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=31
+logs/Zaln.30.log:2026-05-09T11:10:45.064436Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=40,000,000 elapsed_secs=40
+logs/Zaln.30.log:2026-05-09T11:10:51.186051Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=43,319,391 elapsed_secs=47
+logs/Zaln.30.log:2026-05-09T11:10:51.792421Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=47
+logs/Zaln.30.log:2026-05-09T11:10:51.801167Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=538.139932256s
+logs/Zaln.31.log:2026-05-09T11:09:04.074054Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=65
+logs/Zaln.31.log:2026-05-09T11:09:16.714604Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=12
+logs/Zaln.31.log:2026-05-09T11:09:26.720376Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=22
+logs/Zaln.31.log:2026-05-09T11:09:37.105981Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=32
+logs/Zaln.31.log:2026-05-09T11:09:43.443602Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=35,966,290 elapsed_secs=39
+logs/Zaln.31.log:2026-05-09T11:09:43.916757Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=39
+logs/Zaln.31.log:2026-05-09T11:09:43.927568Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=461.484275707s
+logs/Zaln.32.log:2026-05-09T15:08:40.049210Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=16 elapsed_secs=90
+logs/Zaln.32.log:2026-05-09T15:08:52.175774Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=11
+logs/Zaln.32.log:2026-05-09T15:09:01.696822Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=21
+logs/Zaln.32.log:2026-05-09T15:09:12.106433Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=31
+logs/Zaln.32.log:2026-05-09T15:09:21.811743Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=40,000,000 elapsed_secs=41
+logs/Zaln.32.log:2026-05-09T15:09:31.335797Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=50,000,000 elapsed_secs=50
+logs/Zaln.32.log:2026-05-09T15:09:43.841467Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=60,000,000 elapsed_secs=63
+logs/Zaln.32.log:2026-05-09T15:09:50.600726Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=64,644,852 elapsed_secs=69
+logs/Zaln.32.log:2026-05-09T15:09:51.616862Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=71
+logs/Zaln.32.log:2026-05-09T15:09:51.631423Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=943.129939074s
+logs/Zaln.33.log:2026-05-09T11:09:52.716527Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=68
+logs/Zaln.33.log:2026-05-09T11:10:05.960679Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=12
+logs/Zaln.33.log:2026-05-09T11:10:16.433587Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=23
+logs/Zaln.33.log:2026-05-09T11:10:27.254751Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=34
+logs/Zaln.33.log:2026-05-09T11:10:38.738012Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=39,704,880 elapsed_secs=45
+logs/Zaln.33.log:2026-05-09T11:10:39.264933Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=46
+logs/Zaln.33.log:2026-05-09T11:10:39.267585Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=516.997876675s
+logs/Zaln.34.log:2026-05-09T11:08:23.282272Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=4 elapsed_secs=58
+logs/Zaln.34.log:2026-05-09T11:08:36.009599Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=12
+logs/Zaln.34.log:2026-05-09T11:08:45.885461Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=22
+logs/Zaln.34.log:2026-05-09T11:08:56.187524Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=32
+logs/Zaln.34.log:2026-05-09T11:08:58.522353Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=32,029,109 elapsed_secs=35
+logs/Zaln.34.log:2026-05-09T11:08:58.947568Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=35
+logs/Zaln.34.log:2026-05-09T11:08:58.953802Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=416.684097528s
+logs/Zaln.35.log:2026-05-09T11:09:27.214968Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=62
+logs/Zaln.35.log:2026-05-09T11:09:37.613658Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=10
+logs/Zaln.35.log:2026-05-09T11:09:45.779039Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=18
+logs/Zaln.35.log:2026-05-09T11:09:54.253414Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=26
+logs/Zaln.35.log:2026-05-09T11:10:02.039286Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=38,447,576 elapsed_secs=34
+logs/Zaln.35.log:2026-05-09T11:10:02.633487Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=35
+logs/Zaln.35.log:2026-05-09T11:10:02.646174Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=479.910399649s
+logs/Zaln.36.log:2026-05-09T11:09:36.757952Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=4 elapsed_secs=61
+logs/Zaln.36.log:2026-05-09T11:09:47.663620Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=10
+logs/Zaln.36.log:2026-05-09T11:09:56.530212Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=19
+logs/Zaln.36.log:2026-05-09T11:10:05.291572Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=28
+logs/Zaln.36.log:2026-05-09T11:10:07.804676Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=32,552,946 elapsed_secs=30
+logs/Zaln.36.log:2026-05-09T11:10:08.212905Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=31
+logs/Zaln.36.log:2026-05-09T11:10:08.216251Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=485.480474665s
+logs/Zaln.37.log:2026-05-09T11:10:45.783508Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=6 elapsed_secs=64
+logs/Zaln.37.log:2026-05-09T11:10:55.326251Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=9
+logs/Zaln.37.log:2026-05-09T11:11:03.397476Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=17
+logs/Zaln.37.log:2026-05-09T11:11:11.358870Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=25
+logs/Zaln.37.log:2026-05-09T11:11:19.125468Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=40,000,000 elapsed_secs=33
+logs/Zaln.37.log:2026-05-09T11:11:26.520246Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=46,554,411 elapsed_secs=40
+logs/Zaln.37.log:2026-05-09T11:11:27.151853Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=41
+logs/Zaln.37.log:2026-05-09T11:11:27.163552Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=564.844149319s
+logs/Zaln.38.log:2026-05-09T11:12:01.801266Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=81
+logs/Zaln.38.log:2026-05-09T11:12:14.023617Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=11
+logs/Zaln.38.log:2026-05-09T11:12:23.481092Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=21
+logs/Zaln.38.log:2026-05-09T11:12:33.345770Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=31
+logs/Zaln.38.log:2026-05-09T11:12:43.275532Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=40,000,000 elapsed_secs=41
+logs/Zaln.38.log:2026-05-09T11:12:50.102172Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=42,982,407 elapsed_secs=48
+logs/Zaln.38.log:2026-05-09T11:12:50.816617Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=49
+logs/Zaln.38.log:2026-05-09T11:12:50.820754Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=648.501338067s
+logs/Zaln.39.log:2026-05-09T11:07:34.383155Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=4 elapsed_secs=50
+logs/Zaln.39.log:2026-05-09T11:07:45.104643Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=10
+logs/Zaln.39.log:2026-05-09T11:07:54.650148Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=20
+logs/Zaln.39.log:2026-05-09T11:08:04.010422Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=29
+logs/Zaln.39.log:2026-05-09T11:08:04.040142Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=30,020,265 elapsed_secs=29
+logs/Zaln.39.log:2026-05-09T11:08:04.339593Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=29
+logs/Zaln.39.log:2026-05-09T11:08:04.349009Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=366.150723089s
+logs/Zaln.4.log:2026-05-09T11:09:02.818193Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=52
+logs/Zaln.4.log:2026-05-09T11:09:14.303678Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=11
+logs/Zaln.4.log:2026-05-09T11:09:24.146359Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=21
+logs/Zaln.4.log:2026-05-09T11:09:34.617132Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=31
+logs/Zaln.4.log:2026-05-09T11:09:40.920868Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=35,840,320 elapsed_secs=37
+logs/Zaln.4.log:2026-05-09T11:09:41.532275Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=38
+logs/Zaln.4.log:2026-05-09T11:09:41.534452Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=469.673431721s
+logs/Zaln.5.log:2026-05-09T11:08:50.871490Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=54
+logs/Zaln.5.log:2026-05-09T11:09:00.458546Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=9
+logs/Zaln.5.log:2026-05-09T11:09:07.845718Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=16
+logs/Zaln.5.log:2026-05-09T11:09:15.589032Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=24
+logs/Zaln.5.log:2026-05-09T11:09:19.913926Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=35,747,074 elapsed_secs=28
+logs/Zaln.5.log:2026-05-09T11:09:20.551714Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=29
+logs/Zaln.5.log:2026-05-09T11:09:20.553551Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=449.400587251s
+logs/Zaln.6.log:2026-05-09T11:08:22.515607Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=4 elapsed_secs=45
+logs/Zaln.6.log:2026-05-09T11:08:33.667871Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=11
+logs/Zaln.6.log:2026-05-09T11:08:41.939276Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=19
+logs/Zaln.6.log:2026-05-09T11:08:50.906729Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=28
+logs/Zaln.6.log:2026-05-09T11:08:54.635089Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=34,080,722 elapsed_secs=31
+logs/Zaln.6.log:2026-05-09T11:08:55.292536Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=32
+logs/Zaln.6.log:2026-05-09T11:08:55.294834Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=424.141861869s
+logs/Zaln.7.log:2026-05-09T11:08:52.237607Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=39
+logs/Zaln.7.log:2026-05-09T11:09:00.012742Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=7
+logs/Zaln.7.log:2026-05-09T11:09:07.495093Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=15
+logs/Zaln.7.log:2026-05-09T11:09:15.292838Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=22
+logs/Zaln.7.log:2026-05-09T11:09:20.276162Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=36,381,049 elapsed_secs=27
+logs/Zaln.7.log:2026-05-09T11:09:20.903455Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=28
+logs/Zaln.7.log:2026-05-09T11:09:20.905494Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=448.973661305s
+logs/Zaln.8.log:2026-05-09T11:08:43.943539Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=4 elapsed_secs=44
+logs/Zaln.8.log:2026-05-09T11:08:55.768826Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=11
+logs/Zaln.8.log:2026-05-09T11:09:03.241301Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=19
+logs/Zaln.8.log:2026-05-09T11:09:11.055409Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=26
+logs/Zaln.8.log:2026-05-09T11:09:14.413817Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=34,351,742 elapsed_secs=30
+logs/Zaln.8.log:2026-05-09T11:09:14.963597Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=31
+logs/Zaln.8.log:2026-05-09T11:09:14.965394Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=443.788316289s
+logs/Zaln.9.log:2026-05-09T11:09:04.580884Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:180: BamSort: phase 1 done — spilled chunks; phase 2/2 starting (k-way merge + write) chunks=5 elapsed_secs=41
+logs/Zaln.9.log:2026-05-09T11:09:14.426716Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=10,000,000 elapsed_secs=9
+logs/Zaln.9.log:2026-05-09T11:09:21.896597Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=20,000,000 elapsed_secs=17
+logs/Zaln.9.log:2026-05-09T11:09:29.571442Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:779: BamSort: merged reads=30,000,000 elapsed_secs=24
+logs/Zaln.9.log:2026-05-09T11:09:36.030300Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:787: BamSort: merge done reads=38,754,584 elapsed_secs=31
+logs/Zaln.9.log:2026-05-09T11:09:36.693029Z  INFO                main ThreadId(01) bascet_cli::command::samtools_rs::sort: crates/bascet-cli/src/command/samtools_rs/sort.rs:188: BamSort: phase 2 done — merge + write complete elapsed_secs=32
+logs/Zaln.9.log:2026-05-09T11:09:36.695194Z  INFO                main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=465.273486658s
+logs/Zcountchrom.0.log:2026-05-09T15:13:03.886728Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=20.352281873s
+logs/Zcountchrom.1.log:2026-05-09T15:13:13.301444Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=31.111191111s
+logs/Zcountchrom.10.log:2026-05-09T15:13:10.029785Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=26.922836681s
+logs/Zcountchrom.11.log:2026-05-09T15:13:16.536635Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=29.234724364s
+logs/Zcountchrom.12.log:2026-05-09T15:13:10.379481Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=23.077562363s
+logs/Zcountchrom.13.log:2026-05-09T15:13:16.700707Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=29.398785863s
+logs/Zcountchrom.14.log:2026-05-09T15:13:07.705559Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=20.403644949s
+logs/Zcountchrom.15.log:2026-05-09T15:13:16.868991Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=29.567063319s
+logs/Zcountchrom.16.log:2026-05-09T15:13:03.575644Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=20.023211307s
+logs/Zcountchrom.17.log:2026-05-09T15:13:07.402221Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=23.849789225s
+logs/Zcountchrom.18.log:2026-05-09T15:13:11.238020Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=27.37843027s
+logs/Zcountchrom.19.log:2026-05-09T15:13:03.461183Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=19.601569042s
+logs/Zcountchrom.2.log:2026-05-09T15:13:06.877712Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=24.478804212s
+logs/Zcountchrom.20.log:2026-05-09T15:13:09.318611Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=22.360703168s
+logs/Zcountchrom.21.log:2026-05-09T15:13:13.961909Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=27.004000876s
+logs/Zcountchrom.22.log:2026-05-09T15:13:12.955816Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=25.997907748s
+logs/Zcountchrom.23.log:2026-05-09T15:13:09.241077Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=22.283167425s
+logs/Zcountchrom.24.log:2026-05-09T15:13:08.380982Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=26.207092204s
+logs/Zcountchrom.25.log:2026-05-09T15:13:04.945020Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=22.464749786s
+logs/Zcountchrom.26.log:2026-05-09T15:13:08.157982Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=25.63336563s
+logs/Zcountchrom.27.log:2026-05-09T15:13:14.712620Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=32.232362341s
+logs/Zcountchrom.28.log:2026-05-09T15:13:06.770982Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=24.188407278s
+logs/Zcountchrom.29.log:2026-05-09T15:13:03.265294Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=21.011083608s
+logs/Zcountchrom.3.log:2026-05-09T15:13:12.840496Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=30.65024173s
+logs/Zcountchrom.30.log:2026-05-09T15:13:12.027626Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=29.934581308s
+logs/Zcountchrom.31.log:2026-05-09T15:13:05.372416Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=23.279370392s
+logs/Zcountchrom.32.log:2026-05-09T15:13:20.355703Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=38.18351665s
+logs/Zcountchrom.33.log:2026-05-09T15:13:06.673234Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=24.603034364s
+logs/Zcountchrom.34.log:2026-05-09T15:13:06.492443Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=21.341934369s
+logs/Zcountchrom.35.log:2026-05-09T15:13:10.502726Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=25.352219504s
+logs/Zcountchrom.36.log:2026-05-09T15:13:05.293588Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=21.363659299s
+logs/Zcountchrom.37.log:2026-05-09T15:13:16.973190Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=30.168692064s
+logs/Zcountchrom.38.log:2026-05-09T15:13:12.379180Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=28.599457323s
+logs/Zcountchrom.39.log:2026-05-09T15:13:03.109199Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=19.329466525s
+logs/Zcountchrom.4.log:2026-05-09T15:13:05.660000Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=23.469738026s
+logs/Zcountchrom.5.log:2026-05-09T15:13:07.400915Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=25.210652717s
+logs/Zcountchrom.6.log:2026-05-09T15:13:05.233580Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=22.619896004s
+logs/Zcountchrom.7.log:2026-05-09T15:13:05.678362Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=23.470937256s
+logs/Zcountchrom.8.log:2026-05-09T15:13:06.641989Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=21.690229054s
+logs/Zcountchrom.9.log:2026-05-09T15:13:06.890378Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=24.682959401s
+logs/Zfastqc.0.log:2026-05-11T10:01:19.044382Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=24.887434949s
+logs/Zfastqc.10.log:2026-05-11T10:04:06.471096Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=39.84816784s
+logs/Zfastqc.11.log:2026-05-11T10:04:44.391820Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=45.030557787s
+logs/Zfastqc.12.log:2026-05-11T10:04:40.933238Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=30.699348678s
+logs/Zfastqc.14.log:2026-05-11T10:05:10.864820Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=30.621239049s
+logs/Zfastqc.15.log:2026-05-11T10:05:31.952774Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=51.709163178s
+logs/Zfastqc.16.log:2026-05-11T10:05:12.006447Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=27.337784562s
+logs/Zfastqc.18.log:2026-05-11T10:05:44.446879Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=48.704690465s
+logs/Zfastqc.19.log:2026-05-11T10:05:41.520548Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=27.445287559s
+logs/Zfastqc.2.log:2026-05-11T10:01:36.580843Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=34.358523153s
+logs/Zfastqc.20.log:2026-05-11T10:05:54.823012Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=39.212741288s
+logs/Zfastqc.21.log:2026-05-11T10:06:08.821563Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=42.163375919s
+logs/Zfastqc.23.log:2026-05-11T10:06:16.503734Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=32.049954267s
+logs/Zfastqc.25.log:2026-05-11T10:06:25.088565Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=26.352291591s
+logs/Zfastqc.26.log:2026-05-11T10:06:57.768966Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=38.743944823s
+logs/Zfastqc.27.log:2026-05-11T10:07:28.387305Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=66.933194821s
+logs/Zfastqc.28.log:2026-05-11T10:06:50.713829Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=31.499258539s
+logs/Zfastqc.29.log:2026-05-11T10:06:48.015918Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=27.720469789s
+logs/Zfastqc.30.log:2026-05-11T10:07:02.473738Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=33.855507011s
+logs/Zfastqc.31.log:2026-05-11T10:07:20.649963Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=29.012929916s
+logs/Zfastqc.32.log:2026-05-11T10:07:47.027399Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=53.513106165s
+logs/Zfastqc.33.log:2026-05-11T10:08:00.708081Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=50.541883928s
+logs/Zfastqc.34.log:2026-05-11T10:07:32.724008Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=26.557448491s
+logs/Zfastqc.35.log:2026-05-11T10:07:54.684559Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=46.335669876s
+logs/Zfastqc.36.log:2026-05-11T10:07:50.214565Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=25.851923145s
+logs/Zfastqc.38.log:2026-05-11T10:08:24.441072Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=43.314596329s
+logs/Zfastqc.39.log:2026-05-11T10:08:16.539074Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=27.272532901s
+logs/Zfastqc.4.log:2026-05-11T10:02:20.888439Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=30.806598003s
+logs/Zfastqc.6.log:2026-05-11T10:02:51.104137Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=26.671713052s
+logs/Zfastqc.7.log:2026-05-11T10:03:20.577438Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=32.243902132s
+logs/Zfastqc.8.log:2026-05-11T10:03:22.984288Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=27.977596757s
+logs/Zfastqc.9.log:2026-05-11T10:03:55.456261Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=31.073529722s
+logs/ZfilterAln.0.log:2026-05-09T18:22:18.587700Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=70.96788222s
+logs/ZfilterAln.1.log:2026-05-09T18:22:52.630136Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=105.065675486s
+logs/ZfilterAln.10.log:2026-05-09T18:22:52.920791Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=104.76839832s
+logs/ZfilterAln.11.log:2026-05-09T18:22:40.907675Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=93.36909673s
+logs/ZfilterAln.12.log:2026-05-09T18:22:22.055481Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=74.047711102s
+logs/ZfilterAln.13.log:2026-05-09T18:23:10.447924Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=122.909367313s
+logs/ZfilterAln.14.log:2026-05-09T18:22:16.996670Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=68.65775651s
+logs/ZfilterAln.15.log:2026-05-09T18:23:08.179116Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=120.640542384s
+logs/ZfilterAln.16.log:2026-05-09T18:22:27.924740Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=80.386159562s
+logs/ZfilterAln.17.log:2026-05-09T18:22:47.485907Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=99.581907948s
+logs/ZfilterAln.18.log:2026-05-09T18:22:59.130993Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=111.263528122s
+logs/ZfilterAln.19.log:2026-05-09T18:22:17.426056Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=68.815942018s
+logs/ZfilterAln.2.log:2026-05-09T18:22:28.593017Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=81.028532851s
+logs/ZfilterAln.20.log:2026-05-09T18:22:20.157945Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=72.619371289s
+logs/ZfilterAln.21.log:2026-05-09T18:22:48.518477Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=100.277608548s
+logs/ZfilterAln.22.log:2026-05-09T18:22:33.968769Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=86.43019095s
+logs/ZfilterAln.23.log:2026-05-09T18:22:37.559203Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=89.013376472s
+logs/ZfilterAln.24.log:2026-05-09T18:22:27.428779Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=79.561654046s
+logs/ZfilterAln.25.log:2026-05-09T18:22:32.307661Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=84.643734757s
+logs/ZfilterAln.26.log:2026-05-09T18:22:28.342961Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=79.912204359s
+logs/ZfilterAln.27.log:2026-05-09T18:23:08.302266Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=119.86649182s
+logs/ZfilterAln.28.log:2026-05-09T18:22:38.760605Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=90.175597066s
+logs/ZfilterAln.29.log:2026-05-09T18:22:18.700023Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=71.161437751s
+logs/ZfilterAln.3.log:2026-05-09T18:23:11.938693Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=124.37425607s
+logs/ZfilterAln.30.log:2026-05-09T18:22:55.215237Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=107.633389243s
+logs/ZfilterAln.31.log:2026-05-09T18:22:26.185209Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=78.36898794s
+logs/ZfilterAln.32.log:2026-05-09T18:22:56.083307Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=108.186381868s
+logs/ZfilterAln.33.log:2026-05-09T18:22:42.462100Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=94.565167029s
+logs/ZfilterAln.34.log:2026-05-09T18:22:18.659476Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=70.762544285s
+logs/ZfilterAln.35.log:2026-05-09T18:22:48.837537Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=100.685358766s
+logs/ZfilterAln.36.log:2026-05-09T18:22:19.778266Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=71.626089518s
+logs/ZfilterAln.37.log:2026-05-09T18:22:46.336127Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=98.183935873s
+logs/ZfilterAln.38.log:2026-05-09T18:22:38.289592Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=90.1373986s
+logs/ZfilterAln.39.log:2026-05-09T18:22:32.933665Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=84.781463698s
+logs/ZfilterAln.4.log:2026-05-09T18:22:42.386919Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=94.822483836s
+logs/ZfilterAln.5.log:2026-05-09T18:22:31.250949Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=83.686495832s
+logs/ZfilterAln.6.log:2026-05-09T18:22:42.685292Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=93.966551485s
+logs/ZfilterAln.7.log:2026-05-09T18:22:43.398648Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=95.860060312s
+logs/ZfilterAln.8.log:2026-05-09T18:22:36.448765Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=88.38850252s
+logs/ZfilterAln.9.log:2026-05-09T18:22:33.951266Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=85.822209424s
+logs/Zgecco.0.log:2026-05-11T07:58:58.543494Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=4648.289867369s
+logs/Zgecco.1.log:2026-05-11T08:40:08.029040Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=7117.715507017s
+logs/Zgecco.10.log:2026-05-11T09:08:14.299252Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=8803.835088287s
+logs/Zgecco.11.log:2026-05-11T09:06:47.280805Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=8707.55554635s
+logs/Zgecco.12.log:2026-05-11T08:59:34.073294Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=8274.348060663s
+logs/Zgecco.13.log:2026-05-11T08:55:53.653547Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=8054.233259049s
+logs/Zgecco.14.log:2026-05-11T08:42:26.427202Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=7247.006906671s
+logs/Zgecco.15.log:2026-05-11T09:07:33.772893Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=8759.439379339s
+logs/Zgecco.16.log:2026-05-11T09:10:19.981242Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=8919.259170278s
+logs/Zgecco.17.log:2026-05-11T09:56:32.330364Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=11691.608285316s
+logs/Zgecco.18.log:2026-05-11T10:00:49.469597Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=11949.540904787s
+logs/Zgecco.19.log:2026-05-11T09:06:21.571545Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=8681.642872531s
+logs/Zgecco.2.log:2026-05-11T08:53:13.699926Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=7903.443040503s
+logs/Zgecco.20.log:2026-05-11T09:03:32.282947Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=8522.45191996s
+logs/Zgecco.21.log:2026-05-11T09:03:50.691385Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=8540.860393436s
+logs/Zgecco.22.log:2026-05-11T09:19:08.988462Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=9447.706540965s
+logs/Zgecco.23.log:2026-05-11T09:13:02.166910Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=9080.885005022s
+logs/Zgecco.24.log:2026-05-11T09:28:42.495460Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=10032.745015378s
+logs/Zgecco.25.log:2026-05-11T09:03:32.655800Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=8522.905333109s
+logs/Zgecco.26.log:2026-05-11T09:31:06.292377Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=10168.20991978s
+logs/Zgecco.27.log:2026-05-11T09:15:23.943635Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=9225.861166738s
+logs/Zgecco.28.log:2026-05-11T09:11:11.618497Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=8982.217602025s
+logs/Zgecco.29.log:2026-05-11T08:46:22.109680Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=7492.708765598s
+logs/Zgecco.3.log:2026-05-11T09:27:21.938560Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=9941.962995573s
+logs/Zgecco.30.log:2026-05-11T09:31:12.893253Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=10176.691061679s
+logs/Zgecco.31.log:2026-05-11T09:31:54.347494Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=10218.145323651s
+logs/Zgecco.32.log:2026-05-11T09:43:22.192155Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=10911.83232164s
+logs/Zgecco.33.log:2026-05-11T09:20:21.226355Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=9530.866511329s
+logs/Zgecco.34.log:2026-05-11T09:19:25.040857Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=9464.110692635s
+logs/Zgecco.35.log:2026-05-11T09:58:36.526029Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=11815.595869495s
+logs/Zgecco.36.log:2026-05-11T09:19:31.693839Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=9470.73308247s
+logs/Zgecco.37.log:2026-05-11T09:28:29.982522Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=10009.021748758s
+logs/Zgecco.38.log:2026-05-11T09:23:35.978222Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=9726.296795454s
+logs/Zgecco.39.log:2026-05-11T08:47:58.242218Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=7588.560769295s
+logs/Zgecco.4.log:2026-05-11T09:19:43.806061Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=9483.830507282s
+logs/Zgecco.5.log:2026-05-11T08:58:56.116278Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=8241.281222548s
+logs/Zgecco.6.log:2026-05-11T09:11:50.122790Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=9020.388218018s
+logs/Zgecco.7.log:2026-05-11T09:22:14.069897Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=9644.335314406s
+logs/Zgecco.8.log:2026-05-11T09:22:50.822672Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=9671.477483071s
+logs/Zgecco.9.log:2026-05-11T09:21:47.413236Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=9608.068020595s
+logs/Zgetraw.0.log:2026-05-11T19:05:34.102994Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:189: Success! elapsed=2053.802426837s
+logs/Zmap__amrfinder.0.log:2026-05-11T19:06:15.016320Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=531.250523ms
+logs/Zmap__amrfinder.1.log:2026-05-11T19:07:14.791594Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=420.537335ms
+logs/Zmap__amrfinder.10.log:2026-05-11T19:12:14.970592Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=373.99431ms
+logs/Zmap__amrfinder.11.log:2026-05-11T19:13:15.339684Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=410.433817ms
+logs/Zmap__amrfinder.12.log:2026-05-11T19:14:15.365688Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=422.373189ms
+logs/Zmap__amrfinder.13.log:2026-05-11T19:14:15.251646Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=357.415178ms
+logs/Zmap__amrfinder.14.log:2026-05-11T19:15:15.534124Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=428.802395ms
+logs/Zmap__amrfinder.15.log:2026-05-11T19:15:15.380917Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=374.059744ms
+logs/Zmap__amrfinder.16.log:2026-05-11T19:16:15.343131Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=451.141233ms
+logs/Zmap__amrfinder.17.log:2026-05-11T19:16:15.214907Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=421.08283ms
+logs/Zmap__amrfinder.18.log:2026-05-11T19:17:15.814098Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=419.121308ms
+logs/Zmap__amrfinder.19.log:2026-05-11T19:19:15.586030Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=429.116851ms
+logs/Zmap__amrfinder.2.log:2026-05-11T19:07:15.117581Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=539.341463ms
+logs/Zmap__amrfinder.20.log:2026-05-11T19:20:15.575675Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=429.26377ms
+logs/Zmap__amrfinder.21.log:2026-05-11T19:22:16.055225Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=535.273565ms
+logs/Zmap__amrfinder.22.log:2026-05-11T19:22:13.618247Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=489.477717ms
+logs/Zmap__amrfinder.23.log:2026-05-11T19:22:43.738094Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=390.978075ms
+logs/Zmap__amrfinder.24.log:2026-05-11T19:22:41.458929Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=372.940332ms
+logs/Zmap__amrfinder.25.log:2026-05-11T19:22:49.103769Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=365.79859ms
+logs/Zmap__amrfinder.26.log:2026-05-11T19:22:51.163654Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=1.185941533s
+logs/Zmap__amrfinder.27.log:2026-05-11T19:22:56.499617Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=391.328497ms
+logs/Zmap__amrfinder.28.log:2026-05-11T19:22:56.839483Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=370.701435ms
+logs/Zmap__amrfinder.29.log:2026-05-11T19:22:56.006543Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=1.063927755s
+logs/Zmap__amrfinder.3.log:2026-05-11T19:08:14.866675Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=406.98623ms
+logs/Zmap__amrfinder.30.log:2026-05-11T19:23:00.728779Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=1.11416921s
+logs/Zmap__amrfinder.31.log:2026-05-11T19:23:04.503708Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=370.944729ms
+logs/Zmap__amrfinder.32.log:2026-05-11T19:23:09.207984Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=387.340958ms
+logs/Zmap__amrfinder.33.log:2026-05-11T19:23:05.728141Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=1.102147306s
+logs/Zmap__amrfinder.34.log:2026-05-11T19:23:10.551404Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=1.088915828s
+logs/Zmap__amrfinder.35.log:2026-05-11T19:23:12.030451Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=368.09006ms
+logs/Zmap__amrfinder.36.log:2026-05-11T19:23:15.347600Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=1.116686127s
+logs/Zmap__amrfinder.37.log:2026-05-11T19:23:22.082242Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=383.026545ms
+logs/Zmap__amrfinder.38.log:2026-05-11T19:23:19.676779Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=364.335698ms
+logs/Zmap__amrfinder.39.log:2026-05-11T19:23:20.182318Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=1.087023434s
+logs/Zmap__amrfinder.4.log:2026-05-11T19:08:14.838114Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=420.265792ms
+logs/Zmap__amrfinder.5.log:2026-05-11T19:09:15.120528Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=411.479013ms
+logs/Zmap__amrfinder.6.log:2026-05-11T19:10:14.901392Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=418.97428ms
+logs/Zmap__amrfinder.7.log:2026-05-11T19:11:15.146147Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=422.785661ms
+logs/Zmap__amrfinder.8.log:2026-05-11T19:11:15.109646Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=419.569201ms
+logs/Zmap__amrfinder.9.log:2026-05-11T19:12:15.082606Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:126: Failure! elapsed=418.31889ms
+logs/Zmap__minhash_fq.0.log:2026-05-09T19:40:26.902391Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=118.935167264s
+logs/Zmap__minhash_fq.1.log:2026-05-09T19:40:45.481646Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=138.40622194s
+logs/Zmap__minhash_fq.10.log:2026-05-09T20:03:47.839790Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1344.123420018s
+logs/Zmap__minhash_fq.11.log:2026-05-09T19:41:21.675721Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=170.06568533s
+logs/Zmap__minhash_fq.12.log:2026-05-09T19:43:45.185495Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=308.216913999s
+logs/Zmap__minhash_fq.13.log:2026-05-09T19:44:11.121380Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=334.152532506s
+logs/Zmap__minhash_fq.14.log:2026-05-09T19:41:06.060732Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=159.030284251s
+logs/Zmap__minhash_fq.15.log:2026-05-09T19:41:30.819400Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=183.812921966s
+logs/Zmap__minhash_fq.16.log:2026-05-09T19:52:06.141817Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=646.230909974s
+logs/Zmap__minhash_fq.17.log:2026-05-09T19:44:44.112755Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=204.201816736s
+logs/Zmap__minhash_fq.18.log:2026-05-09T19:41:19.059475Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=172.33788017s
+logs/Zmap__minhash_fq.19.log:2026-05-09T19:41:29.129126Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=182.406874842s
+logs/Zmap__minhash_fq.2.log:2026-05-09T19:40:23.216882Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=115.915317657s
+logs/Zmap__minhash_fq.20.log:2026-05-09T19:40:52.681495Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=135.033936062s
+logs/Zmap__minhash_fq.21.log:2026-05-09T19:41:51.920733Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=194.273120443s
+logs/Zmap__minhash_fq.22.log:2026-05-09T19:59:51.353317Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1283.988171835s
+logs/Zmap__minhash_fq.23.log:2026-05-09T20:03:04.125183Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1300.346850013s
+logs/Zmap__minhash_fq.24.log:2026-05-09T19:44:17.298155Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=173.519836336s
+logs/Zmap__minhash_fq.25.log:2026-05-09T19:41:51.727751Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=199.620498805s
+logs/Zmap__minhash_fq.26.log:2026-05-09T19:41:41.746077Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=184.610537669s
+logs/Zmap__minhash_fq.27.log:2026-05-09T19:41:59.769335Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=202.634358202s
+logs/Zmap__minhash_fq.28.log:2026-05-09T20:03:05.057194Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1468.051583187s
+logs/Zmap__minhash_fq.29.log:2026-05-09T19:45:21.714979Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=404.709627116s
+logs/Zmap__minhash_fq.3.log:2026-05-09T19:40:40.839905Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=133.331505173s
+logs/Zmap__minhash_fq.30.log:2026-05-09T19:41:42.334560Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=184.622399327s
+logs/Zmap__minhash_fq.31.log:2026-05-09T19:41:59.129536Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=201.41758061s
+logs/Zmap__minhash_fq.32.log:2026-05-09T19:44:16.703473Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=173.011697622s
+logs/Zmap__minhash_fq.33.log:2026-05-09T19:44:49.706400Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=206.014620766s
+logs/Zmap__minhash_fq.34.log:2026-05-09T19:43:53.362546Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=316.231360458s
+logs/Zmap__minhash_fq.35.log:2026-05-09T19:44:13.397818Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=336.266858387s
+logs/Zmap__minhash_fq.36.log:2026-05-09T20:02:20.763096Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1434.649266961s
+logs/Zmap__minhash_fq.37.log:2026-05-09T19:42:11.250717Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=224.810195437s
+logs/Zmap__minhash_fq.38.log:2026-05-09T19:45:21.658361Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=415.334524598s
+logs/Zmap__minhash_fq.39.log:2026-05-09T19:41:15.640484Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=168.706189643s
+logs/Zmap__minhash_fq.4.log:2026-05-09T19:40:38.394366Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=131.318949003s
+logs/Zmap__minhash_fq.5.log:2026-05-09T19:40:30.260843Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=122.960460898s
+logs/Zmap__minhash_fq.6.log:2026-05-09T19:40:24.581900Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=116.554407897s
+logs/Zmap__minhash_fq.7.log:2026-05-09T19:40:21.733020Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=113.705532974s
+logs/Zmap__minhash_fq.8.log:2026-05-09T19:40:56.086928Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=148.509335887s
+logs/Zmap__minhash_fq.9.log:2026-05-09T19:44:27.207223Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=183.490846316s
+logs/Zmap__skesa.0.log:2026-05-09T20:28:06.370108Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=989.264908ms
+logs/Zmap__skesa.1.log:2026-05-09T20:28:05.673268Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=1.087816795s
+logs/Zmap__skesa.10.log:2026-05-09T20:28:05.943920Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=1.364081346s
+logs/Zmap__skesa.11.log:2026-05-09T20:28:05.433822Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=1.535274881s
+logs/Zmap__skesa.12.log:2026-05-09T20:28:06.418059Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=1.213724574s
+logs/Zmap__skesa.13.log:2026-05-09T20:28:15.512793Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=586.712759ms
+logs/Zmap__skesa.14.log:2026-05-09T20:28:15.512689Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=586.639125ms
+logs/Zmap__skesa.15.log:2026-05-09T20:30:53.144474Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=457.851142ms
+logs/Zmap__skesa.16.log:2026-05-09T20:28:15.532328Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=545.369034ms
+logs/Zmap__skesa.17.log:2026-05-09T20:28:15.532332Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=545.379036ms
+logs/Zmap__skesa.18.log:2026-05-09T20:28:04.466128Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=565.555758ms
+logs/Zmap__skesa.19.log:2026-05-09T20:28:04.545173Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=425.235724ms
+logs/Zmap__skesa.2.log:2026-05-09T20:28:06.496311Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=1.240457497s
+logs/Zmap__skesa.20.log:2026-05-09T20:28:14.993898Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=576.338919ms
+logs/Zmap__skesa.21.log:2026-05-09T20:28:14.993798Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=576.247399ms
+logs/Zmap__skesa.22.log:2026-05-09T20:28:04.356810Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=427.544547ms
+logs/Zmap__skesa.23.log:2026-05-09T20:28:04.278250Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=550.796571ms
+logs/Zmap__skesa.24.log:2026-05-09T20:28:15.030331Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=554.242718ms
+logs/Zmap__skesa.25.log:2026-05-09T20:28:15.031287Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=555.19207ms
+logs/Zmap__skesa.26.log:2026-05-09T20:28:06.160377Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=489.796435ms
+logs/Zmap__skesa.27.log:2026-05-09T20:28:14.977947Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=548.984295ms
+logs/Zmap__skesa.28.log:2026-05-09T20:28:14.977938Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=548.980735ms
+logs/Zmap__skesa.29.log:2026-05-09T20:30:53.313038Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=551.286091ms
+logs/Zmap__skesa.3.log:2026-05-09T20:28:05.450118Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=1.39517367s
+logs/Zmap__skesa.30.log:2026-05-09T20:28:14.719313Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=606.124884ms
+logs/Zmap__skesa.31.log:2026-05-09T20:28:14.719398Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=606.184499ms
+logs/Zmap__skesa.32.log:2026-05-09T20:28:13.771209Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=602.627016ms
+logs/Zmap__skesa.33.log:2026-05-09T20:28:13.771146Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=602.570672ms
+logs/Zmap__skesa.34.log:2026-05-09T20:28:15.221918Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=570.343062ms
+logs/Zmap__skesa.35.log:2026-05-09T20:28:15.206253Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=554.670416ms
+logs/Zmap__skesa.36.log:2026-05-09T20:28:14.978084Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=565.248814ms
+logs/Zmap__skesa.37.log:2026-05-09T20:28:14.978091Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=565.240405ms
+logs/Zmap__skesa.38.log:2026-05-09T20:28:14.820557Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=592.079058ms
+logs/Zmap__skesa.39.log:2026-05-09T20:28:14.820533Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=592.048228ms
+logs/Zmap__skesa.4.log:2026-05-09T20:28:06.179318Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=1.299702487s
+logs/Zmap__skesa.5.log:2026-05-09T20:28:05.514610Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=1.407869798s
+logs/Zmap__skesa.6.log:2026-05-09T20:28:05.433889Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=1.417922627s
+logs/Zmap__skesa.7.log:2026-05-09T20:28:05.815411Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=1.37432285s
+logs/Zmap__skesa.8.log:2026-05-09T20:28:05.433881Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=1.535337135s
+logs/Zmap__skesa.9.log:2026-05-09T20:28:05.830593Z ERROR main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:140: Failure! elapsed=1.384685175s
+logs/Zskesa.1.log:2026-05-09T21:04:54.354069Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1211.021347689s
+logs/Zskesa.10.log:2026-05-09T21:04:24.214288Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1180.282157454s
+logs/Zskesa.11.log:2026-05-09T21:07:56.755345Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1392.916426108s
+logs/Zskesa.12.log:2026-05-09T21:02:03.776146Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1039.622747248s
+logs/Zskesa.13.log:2026-05-09T21:07:56.755340Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1392.916428802s
+logs/Zskesa.14.log:2026-05-09T21:00:58.485569Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=973.994428071s
+logs/Zskesa.15.log:2026-05-09T21:06:35.493882Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1311.002751214s
+logs/Zskesa.18.log:2026-05-09T21:07:59.676418Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1385.487815779s
+logs/Zskesa.2.log:2026-05-09T21:04:25.987097Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1182.227685385s
+logs/Zskesa.20.log:2026-05-09T21:02:57.068888Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1083.625258965s
+logs/Zskesa.21.log:2026-05-09T21:07:35.592128Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1362.148496938s
+logs/Zskesa.25.log:2026-05-09T21:04:02.738951Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1149.260947673s
+logs/Zskesa.27.log:2026-05-09T21:10:09.206676Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1525.46367635s
+logs/Zskesa.29.log:2026-05-09T21:03:13.543091Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1100.203715198s
+logs/Zskesa.3.log:2026-05-09T21:06:47.618759Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1323.928527421s
+logs/Zskesa.30.log:2026-05-09T21:06:25.018911Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1300.838389198s
+logs/Zskesa.32.log:2026-05-09T21:09:27.866641Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1474.4378981s
+logs/Zskesa.33.log:2026-05-09T21:09:22.469994Z  INFO         main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1473.721528584s
+logs/Zskesa.36.log:2026-05-09T21:02:56.046537Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1082.30593881s
+logs/Zskesa.39.log:2026-05-09T21:05:24.849447Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1231.435756234s
+logs/Zskesa.4.log:2026-05-09T21:03:21.355439Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1118.022707927s
+logs/Zskesa.5.log:2026-05-09T21:03:38.760367Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1134.741173788s
+logs/Zskesa.6.log:2026-05-09T21:02:33.840101Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1069.891870185s
+logs/Zskesa.7.log:2026-05-09T21:03:43.171710Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1139.838966953s
+logs/Zskesa.9.log:2026-05-09T21:04:52.502054Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=1208.646995333s
+logs/Ztransform.0.log:2026-05-09T19:15:55.432566Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=144.282422894s
+logs/Ztransform.1.log:2026-05-09T19:16:28.824854Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=177.470600041s
+logs/Ztransform.10.log:2026-05-09T19:16:28.837584Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=167.994584417s
+logs/Ztransform.11.log:2026-05-09T19:19:15.103869Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=175.29215278s
+logs/Ztransform.12.log:2026-05-09T19:16:02.993125Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=142.23488697s
+logs/Ztransform.13.log:2026-05-09T19:16:50.550942Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=189.792725869s
+logs/Ztransform.14.log:2026-05-09T19:15:49.042989Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=125.779029053s
+logs/Ztransform.15.log:2026-05-09T19:17:01.654315Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=198.390349923s
+logs/Ztransform.16.log:2026-05-09T19:15:53.240561Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=142.721650919s
+logs/Ztransform.17.log:2026-05-09T19:16:06.488475Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=156.016685887s
+logs/Ztransform.18.log:2026-05-09T19:16:44.002359Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=193.792048924s
+logs/Ztransform.19.log:2026-05-09T19:15:50.263416Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=140.05309731s
+logs/Ztransform.2.log:2026-05-09T19:16:15.125531Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=164.503883223s
+logs/Ztransform.20.log:2026-05-09T19:15:46.210366Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=134.430666211s
+logs/Ztransform.21.log:2026-05-09T19:16:28.540486Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=165.220232361s
+logs/Ztransform.22.log:2026-05-09T19:16:42.995082Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=179.67483347s
+logs/Ztransform.23.log:2026-05-09T19:18:48.303455Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=148.441814531s
+logs/Ztransform.24.log:2026-05-09T19:19:08.710802Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=169.82672269s
+logs/Ztransform.25.log:2026-05-09T19:16:06.900695Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=146.247023062s
+logs/Ztransform.26.log:2026-05-09T19:16:15.354885Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=154.701192723s
+logs/Ztransform.27.log:2026-05-09T19:17:19.737187Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=216.433583261s
+logs/Ztransform.28.log:2026-05-09T19:16:20.542729Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=157.239101221s
+logs/Ztransform.29.log:2026-05-09T19:16:01.408789Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=140.580093514s
+logs/Ztransform.3.log:2026-05-09T19:16:55.866573Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=204.715786699s
+logs/Ztransform.30.log:2026-05-09T19:16:27.536167Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=166.707471935s
+logs/Ztransform.31.log:2026-05-09T19:16:21.228653Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=160.591849004s
+logs/Ztransform.32.log:2026-05-09T19:17:02.546708Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=201.909921867s
+logs/Ztransform.33.log:2026-05-09T19:16:19.182604Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=158.511794967s
+logs/Ztransform.34.log:2026-05-09T19:16:03.020035Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=142.349219499s
+logs/Ztransform.35.log:2026-05-09T19:16:17.258504Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=165.463944208s
+logs/Ztransform.36.log:2026-05-09T19:15:50.517616Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=138.723048614s
+logs/Ztransform.37.log:2026-05-09T19:16:40.698414Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=189.465567158s
+logs/Ztransform.38.log:2026-05-09T19:16:24.332439Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=173.099611184s
+logs/Ztransform.39.log:2026-05-09T19:18:17.753756Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=118.490806008s
+logs/Ztransform.4.log:2026-05-09T19:16:10.716844Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=160.095197181s
+logs/Ztransform.5.log:2026-05-09T19:16:10.642674Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=159.542722502s
+logs/Ztransform.6.log:2026-05-09T19:16:03.129119Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=152.435013181s
+logs/Ztransform.7.log:2026-05-09T19:16:15.008557Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=163.064906552s
+logs/Ztransform.8.log:2026-05-09T19:16:05.430151Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=154.417093247s
+logs/Ztransform.9.log:2026-05-09T19:16:30.263983Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=169.420949291s
+logs/bascet_minhash_hist.0.log:2026-05-09T20:27:56.612773Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:192: Success! elapsed=203.453107773s

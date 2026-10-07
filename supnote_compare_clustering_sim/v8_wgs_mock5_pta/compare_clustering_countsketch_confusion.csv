@@ -1,0 +1,11 @@
+"method","resolution","species_aln_short","0","1","2","3","4","5","6","7","8"
+"countsketch",0.2,"Bacillus pacificus",3975,559,146,79,131,131,34,0,55
+"countsketch",0.2,"Bifidobacterium adolescentis",5,18,6,0,756,3,1,0,2
+"countsketch",0.2,"Cereibacter sphaeroides",135,1073,58,50,90,49,32,1,15
+"countsketch",0.2,"Clostridium beijerinckii",2,34,7,3,4,3,1,0,2
+"countsketch",0.2,"Deinococcus radiodurans",1,17,1,0,0,0,1,0,0
+"countsketch",0.2,"Enterococcus faecalis",21,81,1889,18,15,17,17,0,7
+"countsketch",0.2,"Escherichia coli",87,1353,136,59,28,31,14,1,17
+"countsketch",0.2,"Lactobacillus gasseri",2,12,5,1,3,2,222,0,1
+"countsketch",0.2,"Staphylococcus epidermidis",6,40,3,954,3,4,1,0,1
+"countsketch",0.2,"Streptococcus mutans",18,26,14,11,10,598,6,0,2

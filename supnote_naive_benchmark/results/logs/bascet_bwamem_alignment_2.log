@@ -1,0 +1,14 @@
+* Index file found. Loading index from /husky/henriksson/atrandi/bwamem_ref/human_phi_xantham/all.fa.bwt.2bit.64
+* Reference seq len for bi-index = 6244749903
+* sentinel-index: 3416214517
+* Count:
+0,	1
+1,	1848648034
+2,	3122374952
+3,	4396101870
+4,	6244749903
+
+* Reading other elements of the index from files /husky/henriksson/atrandi/bwamem_ref/human_phi_xantham/all.fa
+* Index prefix: /husky/henriksson/atrandi/bwamem_ref/human_phi_xantham/all.fa
+* Read 0 ALT contigs
+* Done reading Index!!

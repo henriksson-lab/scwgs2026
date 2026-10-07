@@ -1,0 +1,648 @@
+2026-08-13T22:33:01.947167Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:33:24.344601Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=22.497841026s
+2026-08-13T22:33:01.773516Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:33:28.654915Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=26.960707451s
+2026-08-13T22:34:07.216407Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:34:24.558916Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=17.346401697s
+2026-08-13T22:34:18.429570Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:34:37.793919Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=19.369152471s
+2026-08-13T22:34:19.272189Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:34:32.696674Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=13.428754009s
+2026-08-13T22:34:27.851416Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:34:46.279343Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=18.432048625s
+2026-08-13T22:34:33.286414Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:34:46.169471Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.887110065s
+2026-08-13T22:34:35.559595Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:34:53.062511Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=17.506970655s
+2026-08-13T22:34:49.219762Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:35:02.805829Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=13.589954587s
+2026-08-13T22:34:49.615200Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:35:05.045917Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=15.434788649s
+2026-08-13T22:35:00.412285Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:35:19.514796Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=19.107571418s
+2026-08-13T22:34:56.008185Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:35:08.089775Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.085885107s
+2026-08-13T22:33:01.773527Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:33:25.310564Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=23.61636213s
+2026-08-13T22:35:05.986834Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:35:19.467779Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=13.485789931s
+2026-08-13T22:35:08.704353Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:35:24.976706Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=16.276911866s
+2026-08-13T22:35:10.994704Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:35:25.967385Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=14.976936097s
+2026-08-13T22:35:22.356042Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:35:35.154146Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.80219307s
+2026-08-13T22:35:28.457557Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:35:43.300093Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=14.846634525s
+2026-08-13T22:35:28.877290Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:35:41.609107Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.736645443s
+2026-08-13T22:35:42.159732Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:35:58.330455Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=16.175765106s
+2026-08-13T22:35:38.256862Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:35:58.371410Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=20.118319277s
+2026-08-13T22:35:44.896121Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:35:58.805274Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=13.913269111s
+2026-08-13T22:35:46.871327Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:36:00.390919Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=13.523576705s
+2026-08-13T22:33:20.333430Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:33:55.706091Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=35.406818214s
+2026-08-13T22:35:59.747171Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:36:15.475311Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=15.732067045s
+2026-08-13T22:36:02.537525Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:36:15.936221Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=13.40224899s
+2026-08-13T22:36:02.574052Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:36:24.486553Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=21.91669284s
+2026-08-13T22:36:03.993959Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:36:19.531585Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=15.541779564s
+2026-08-13T22:36:21.023973Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:36:36.258670Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=15.2395274s
+2026-08-13T22:36:19.082037Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:36:33.525154Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=14.447599229s
+2026-08-13T22:36:19.062651Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:36:31.607351Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.548933063s
+2026-08-13T22:36:23.287533Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:36:41.655741Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=18.372265703s
+2026-08-13T22:36:27.482193Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:36:43.031146Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=15.553139775s
+2026-08-13T22:36:35.345704Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:36:47.158336Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=11.816699846s
+2026-08-13T22:34:15.187342Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:34:29.941294Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=14.758157093s
+2026-08-13T22:33:28.347070Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:33:42.102697Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=13.759402043s
+2026-08-13T22:33:32.384319Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:33:46.253953Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=13.873690546s
+2026-08-13T22:33:45.130340Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:33:59.050886Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=13.924665838s
+2026-08-13T22:33:49.290094Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:34:03.955800Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=14.669387586s
+2026-08-13T22:34:02.169155Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Kraken
+2026-08-13T22:34:16.268543Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=14.103367935s
+2026-08-13T21:19:48.233864Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:24:33.643761Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=285.415862104s
+2026-08-13T21:19:48.359293Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:22:52.769961Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=184.418944712s
+2026-08-13T21:27:41.960543Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:30:24.594374Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=162.669031167s
+2026-08-13T21:29:08.392829Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:34:50.656006Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=342.335148911s
+2026-08-13T21:30:04.376756Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:32:20.931350Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=136.561280093s
+2026-08-13T21:33:11.789617Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:36:09.880468Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=178.149666094s
+2026-08-13T21:32:24.400557Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:34:26.687461Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=122.359489895s
+2026-08-13T21:34:12.255427Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:37:18.403765Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=186.172459668s
+2026-08-13T21:34:12.255424Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:36:12.263461Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=120.032159251s
+2026-08-13T21:34:30.016430Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:36:54.452568Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=144.486985885s
+2026-08-13T21:34:50.472499Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:37:46.090617Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=175.624022569s
+2026-08-13T21:34:50.379747Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:36:52.297608Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=121.951921507s
+2026-08-13T21:19:48.561502Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:22:10.789513Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=142.413062389s
+2026-08-13T21:34:50.421388Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:36:58.441016Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=128.025100507s
+2026-08-13T21:34:53.740822Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:37:28.141183Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=154.428198682s
+2026-08-13T21:35:41.683567Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:38:23.471698Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=161.793456199s
+2026-08-13T21:35:41.683642Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:37:43.047960Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=121.369527513s
+2026-08-13T21:35:41.713381Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:38:00.132007Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=138.423830605s
+2026-08-13T21:36:13.173904Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:38:22.760799Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=129.592902348s
+2026-08-13T21:36:15.424311Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:38:32.182004Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=136.77669008s
+2026-08-13T21:36:55.182879Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:40:05.550841Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=190.373813267s
+2026-08-13T21:36:57.793862Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:39:18.335165Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=140.57255978s
+2026-08-13T21:37:01.605795Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:39:05.064465Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=123.48181023s
+2026-08-13T21:22:14.343709Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:25:13.955981Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=179.626243065s
+2026-08-13T21:37:21.647697Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:40:11.892072Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=170.25061612s
+2026-08-13T21:37:31.219081Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:39:49.013155Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=137.800516316s
+2026-08-13T21:37:46.087458Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:41:55.808004Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=249.735146929s
+2026-08-13T21:37:49.263105Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:40:27.039035Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=157.782321213s
+2026-08-13T21:38:03.263562Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:40:05.995902Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=122.737646743s
+2026-08-13T21:38:25.843770Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:40:56.769307Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=150.935548344s
+2026-08-13T21:38:26.735201Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:40:32.878109Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=126.149535225s
+2026-08-13T21:38:35.381257Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:41:32.330154Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=176.955536549s
+2026-08-13T21:39:08.233359Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:41:53.691988Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=165.494149541s
+2026-08-13T21:39:23.168159Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:41:20.263061Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=117.123885274s
+2026-08-13T21:22:56.620762Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:25:14.824540Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=138.296698051s
+2026-08-13T21:24:37.027542Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:26:51.766774Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=134.783979569s
+2026-08-13T21:25:17.361165Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:27:30.315063Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=132.960119517s
+2026-08-13T21:25:18.216064Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:27:38.676084Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=140.514579994s
+2026-08-13T21:26:54.902303Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:29:05.222556Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=130.326870467s
+2026-08-13T21:27:33.494585Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Align
+2026-08-13T21:30:01.158652Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=147.69458407s
+2026-08-13T21:13:52.450125Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:14:11.201601Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=18.756396988s
+2026-08-13T21:13:52.681572Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:14:18.477015Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=25.824787684s
+2026-08-13T21:15:11.524586Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:15:35.481013Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=23.959254806s
+2026-08-13T21:15:11.973732Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:15:37.751132Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=25.780205589s
+2026-08-13T21:15:34.330982Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:15:55.138329Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=20.810116717s
+2026-08-13T21:15:38.700901Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:16:06.781582Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=28.083113258s
+2026-08-13T21:15:40.562150Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:15:58.700569Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=18.141899963s
+2026-08-13T21:15:58.145108Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:16:25.870597Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=27.728315753s
+2026-08-13T21:16:01.914593Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:16:21.063536Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=19.151803728s
+2026-08-13T21:16:09.991748Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:16:31.784809Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=21.795700504s
+2026-08-13T21:16:24.534493Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:16:50.481912Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=25.950221421s
+2026-08-13T21:16:29.060944Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:16:47.596469Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=18.548373938s
+2026-08-13T21:13:56.719049Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:14:18.517150Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=21.800807201s
+2026-08-13T21:16:34.962785Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:16:54.310511Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=19.350419049s
+2026-08-13T21:16:50.742652Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:17:13.468224Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=22.728488484s
+2026-08-13T21:16:53.653693Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:17:17.709034Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=24.058414981s
+2026-08-13T21:16:57.487455Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:17:16.077818Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=18.593111248s
+2026-08-13T21:17:16.463674Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:17:38.512432Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=22.051522201s
+2026-08-13T21:17:19.305319Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:17:41.271536Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=21.968882579s
+2026-08-13T21:17:20.559244Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:17:41.905523Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=21.349250664s
+2026-08-13T21:17:41.638531Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:18:10.120844Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=28.485176958s
+2026-08-13T21:17:44.617863Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:18:08.876478Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=24.261270281s
+2026-08-13T21:17:44.658501Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:18:03.752748Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=19.097023382s
+2026-08-13T21:14:14.284749Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:14:41.374340Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=27.092377016s
+2026-08-13T21:18:06.930728Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:18:31.917243Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=24.989349973s
+2026-08-13T21:18:12.318447Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:18:33.543837Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=21.229276724s
+2026-08-13T21:18:13.185472Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:18:48.149565Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=34.970596578s
+2026-08-13T21:18:35.326388Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:19:01.405006Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=26.081776085s
+2026-08-13T21:18:36.824754Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:18:55.492594Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=18.670220185s
+2026-08-13T21:18:51.188977Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:19:13.390019Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=22.203964413s
+2026-08-13T21:18:58.813971Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:19:17.919061Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=19.107517643s
+2026-08-13T21:19:04.715443Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:19:31.184924Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=26.472426813s
+2026-08-13T21:19:16.452735Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:19:43.519078Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=27.068955555s
+2026-08-13T21:19:22.193641Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:19:39.849707Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=17.658942231s
+2026-08-13T21:14:21.678511Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:14:42.824968Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=21.148835477s
+2026-08-13T21:14:21.934737Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:14:44.991511Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=23.059581085s
+2026-08-13T21:14:44.465628Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:15:04.708944Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=20.24603548s
+2026-08-13T21:14:46.055977Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:15:08.302562Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=22.249063329s
+2026-08-13T21:14:48.376052Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:15:08.627603Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=20.254616021s
+2026-08-13T21:15:08.097083Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countchrom
+2026-08-13T21:15:30.993680Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=22.899398196s
+2026-08-13T22:23:46.095786Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Countsketch
+2026-08-13T22:32:57.402396Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=551.354113103s
+2026-08-13T20:26:39.040119Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Debarcode
+2026-08-13T20:45:10.565072Z  INFO            main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1277.069558658s
+2026-08-13T21:44:14.291828Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:44:25.491180Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=11.227585972s
+2026-08-13T21:46:15.163479Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:46:32.704683Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=17.629586967s
+2026-08-13T21:52:19.530207Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:52:36.896444Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=17.370118369s
+2026-08-13T21:53:43.640664Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:54:01.355214Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=17.787128235s
+2026-08-13T21:52:57.294936Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:53:10.261139Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.970169479s
+2026-08-13T21:53:30.880225Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:53:51.852930Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=20.976751389s
+2026-08-13T21:54:14.595142Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:54:25.378874Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=10.788021209s
+2026-08-13T21:54:16.933828Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:54:33.772862Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=16.841608371s
+2026-08-13T21:54:48.131362Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:54:59.048261Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=10.920757364s
+2026-08-13T21:55:21.854533Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:55:35.101553Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=13.251057749s
+2026-08-13T21:55:17.340027Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:55:32.966084Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=15.628687366s
+2026-08-13T21:55:57.845556Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:56:08.757071Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=10.915443793s
+2026-08-13T21:47:15.015825Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:47:28.079333Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=13.067477361s
+2026-08-13T21:56:17.765893Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:56:29.683852Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=11.921709737s
+2026-08-13T21:56:17.738198Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:56:32.071856Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=14.336117683s
+2026-08-13T21:56:31.532514Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:56:46.568462Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=15.039864502s
+2026-08-13T21:57:08.359092Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:57:19.325213Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=10.970207907s
+2026-08-13T21:57:18.084181Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:57:30.567417Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.51564187s
+2026-08-13T21:57:18.083788Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:57:29.247242Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=11.200645878s
+2026-08-13T21:57:42.060907Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:57:56.082662Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=14.025641964s
+2026-08-13T21:58:18.797879Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:58:37.712068Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=18.918403959s
+2026-08-13T21:58:18.332128Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:58:30.743932Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.415193982s
+2026-08-13T21:58:18.327537Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:58:29.007409Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=10.68268618s
+2026-08-13T21:48:15.287361Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:48:32.164936Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=16.880268227s
+2026-08-13T21:59:00.377141Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:59:18.929647Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=18.556374806s
+2026-08-13T21:59:18.697912Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:59:30.838025Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.143450999s
+2026-08-13T21:59:18.687140Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:59:41.637420Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=22.953037397s
+2026-08-13T21:59:41.641577Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:59:55.862279Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=14.224464976s
+2026-08-13T22:00:18.652193Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T22:00:30.291642Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=11.643258509s
+2026-08-13T22:00:19.094110Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T22:00:32.339853Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=13.248918411s
+2026-08-13T22:00:19.083974Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T22:00:30.179827Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=11.098589498s
+2026-08-13T22:00:52.969811Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T22:01:10.317408Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=17.351396925s
+2026-08-13T22:01:19.150186Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T22:01:35.852552Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=16.705410524s
+2026-08-13T22:01:19.116219Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T22:01:29.189127Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=10.075790421s
+2026-08-13T21:49:15.664911Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:49:27.756450Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.094309974s
+2026-08-13T21:50:15.976197Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:50:28.038395Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.065127491s
+2026-08-13T21:50:35.138348Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:50:47.107443Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.068212124s
+2026-08-13T21:51:09.817205Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:51:22.408886Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.595546418s
+2026-08-13T21:51:16.152465Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:51:27.895811Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=11.745990269s
+2026-08-13T21:51:43.291281Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Filterbam
+2026-08-13T21:51:59.221788Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=15.934168378s
+2026-08-13T22:37:19.158722Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:37:27.144589Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=7.988635426s
+2026-08-13T22:37:30.703814Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:37:42.879749Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.178647746s
+2026-08-13T22:39:29.059525Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:39:39.345908Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=10.289250301s
+2026-08-13T22:39:42.961250Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:39:55.017564Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.059066386s
+2026-08-13T22:39:58.589942Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:40:08.012552Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=9.425376748s
+2026-08-13T22:40:11.577431Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:40:20.901594Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=9.327091892s
+2026-08-13T22:40:24.193878Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:40:32.105285Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=7.914215599s
+2026-08-13T22:40:35.358389Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:40:47.811188Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.455550329s
+2026-08-13T22:40:51.242683Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:40:58.215469Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=6.975586152s
+2026-08-13T22:41:01.571651Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:41:11.068410Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=9.499426265s
+2026-08-13T22:41:14.503947Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:41:25.116307Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=10.61519013s
+2026-08-13T22:41:28.773129Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:41:37.081431Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=8.310979827s
+2026-08-13T22:37:46.426845Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:37:56.197663Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=9.773446123s
+2026-08-13T22:41:40.941419Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:41:49.961010Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=9.022412998s
+2026-08-13T22:41:53.730412Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:42:03.253918Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=9.526217123s
+2026-08-13T22:42:06.917125Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:42:17.290499Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=10.376425027s
+2026-08-13T22:42:20.789004Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:42:28.563876Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=7.77776846s
+2026-08-13T22:42:32.111456Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:42:41.887599Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=9.779063116s
+2026-08-13T22:42:45.123836Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:42:53.565543Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=8.444716056s
+2026-08-13T22:42:50.895568Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:42:59.983379Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=9.09058672s
+2026-08-13T22:42:57.120061Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:43:09.768501Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.65131995s
+2026-08-13T22:43:03.370971Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:43:12.477835Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=9.110745809s
+2026-08-13T22:43:13.316339Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:43:20.805593Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=7.492236379s
+2026-08-13T22:37:59.868269Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:38:12.923014Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=13.057643655s
+2026-08-13T22:43:15.958318Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:43:28.191960Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=12.236667402s
+2026-08-13T22:43:24.388560Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:43:32.900125Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=8.514486578s
+2026-08-13T22:43:31.444126Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:43:47.903700Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=16.46246399s
+2026-08-13T22:43:36.412622Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:43:45.198974Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=8.789394347s
+2026-08-13T22:43:48.845848Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:43:55.881175Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=7.038120763s
+2026-08-13T22:43:51.256770Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:44:01.087100Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=9.833166412s
+2026-08-13T22:43:59.375965Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:44:07.563649Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=8.190549039s
+2026-08-13T22:44:04.575709Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:44:15.850835Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=11.278068556s
+2026-08-13T22:44:10.643159Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:44:21.809778Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=11.169569909s
+2026-08-13T22:44:20.169125Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:44:27.975431Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=7.809406962s
+2026-08-13T22:38:16.595195Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:38:23.798709Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=7.206239533s
+2026-08-13T22:38:27.381613Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:38:35.107926Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=7.729005569s
+2026-08-13T22:38:38.428532Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:38:46.991633Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=8.565896127s
+2026-08-13T22:38:50.326665Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:38:59.767158Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=9.443339599s
+2026-08-13T22:39:03.275997Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:39:11.619771Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=8.346567109s
+2026-08-13T22:39:15.045729Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashFq
+2026-08-13T22:39:24.992330Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=9.949374993s
+2026-08-13T20:45:16.609577Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Shardify
+2026-08-13T20:46:30.511910Z  INFO      main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=74.023927947s
+2026-08-13T23:10:01.902790Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-13T23:37:52.574768Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1670.766278296s
+2026-08-13T23:10:01.902781Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-13T23:43:10.713774Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1988.905290674s
+2026-08-13T23:37:49.528845Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:18:16.327738Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=2426.900848824s
+2026-08-13T23:37:56.952527Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:14:14.714882Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=2177.816726386s
+2026-08-13T23:43:14.456739Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:15:16.263595Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1921.850957445s
+2026-08-13T23:48:48.561655Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:52:40.607326Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=3832.1404339s
+2026-08-13T23:48:48.561647Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:17:06.188835Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1697.721950223s
+2026-08-13T23:48:48.561668Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:50:11.920611Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=3683.45372743s
+2026-08-13T23:48:48.561663Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:16:02.477050Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1634.010170688s
+2026-08-13T23:46:26.527139Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:21:48.805160Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=2122.330742056s
+2026-08-13T23:47:53.140843Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:40:51.112204Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=3178.017668307s
+2026-08-13T23:59:19.973448Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:26:26.009165Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1626.081425063s
+2026-08-13T23:10:20.088454Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-13T23:46:03.533574Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=2143.450599214s
+2026-08-13T23:59:42.639461Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:29:58.560527Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1815.923782207s
+2026-08-14T00:00:40.871069Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:53:53.545364Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=3192.67696152s
+2026-08-14T00:01:20.378834Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:46:01.856597Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=2681.521195096s
+2026-08-14T00:01:51.048822Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:32:13.870794Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1822.838755514s
+2026-08-14T00:02:53.430033Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:34:39.857078Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1906.429798534s
+2026-08-14T00:05:52.909957Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:38:26.681901Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1953.843689979s
+2026-08-14T00:12:54.206777Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:44:52.365570Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1918.203390994s
+2026-08-14T00:14:18.396328Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T01:16:01.706496Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=3703.323881995s
+2026-08-14T00:15:23.090789Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:47:55.135256Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1952.047619112s
+2026-08-14T00:18:49.445690Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:48:47.440503Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1797.999211354s
+2026-08-13T23:15:17.027093Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:12:50.250651Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=3453.27052637s
+2026-08-14T00:17:09.721994Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:56:20.843174Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=2351.15196804s
+2026-08-14T00:18:39.364402Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:55:06.641359Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=2187.315838546s
+2026-08-14T00:22:11.816245Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T01:20:12.724621Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=3480.956454661s
+2026-08-14T00:26:29.802070Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T01:00:18.575823Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=2028.815704065s
+2026-08-14T00:32:51.547809Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T01:03:32.307922Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1840.86322302s
+2026-08-14T00:30:01.533746Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T01:17:53.912549Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=2872.390315665s
+2026-08-14T00:35:20.968734Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T01:06:45.278494Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1884.40858158s
+2026-08-14T00:34:42.979440Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T01:14:46.093763Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=2403.132573041s
+2026-08-14T00:38:39.433194Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T01:19:33.128020Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=2453.730149923s
+2026-08-14T00:40:55.536605Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T01:09:12.663066Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1697.175770366s
+2026-08-13T23:15:17.027076Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-13T23:47:49.173988Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1952.194216823s
+2026-08-13T23:24:49.706849Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:00:57.317523Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=2167.706034237s
+2026-08-13T23:28:50.405626Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:01:28.099812Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1957.790690608s
+2026-08-13T23:29:23.315350Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:00:37.857036Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1874.626116277s
+2026-08-13T23:29:23.315354Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-13T23:59:39.786326Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=1816.555412722s
+2026-08-13T23:29:23.315356Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Skesa
+2026-08-14T00:02:50.478954Z  INFO           main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=2007.248038403s
+2026-08-13T22:04:20.222826Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:04:44.795901Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=24.667110371s
+2026-08-13T22:05:24.122243Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:05:57.739956Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=33.697556359s
+2026-08-13T22:12:15.804467Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:12:47.346666Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=31.54612013s
+2026-08-13T22:13:09.380355Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:13:44.835946Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=35.45975341s
+2026-08-13T22:14:05.132619Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:14:31.879108Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=26.750488753s
+2026-08-13T22:14:23.084717Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:15:00.509921Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=37.523336775s
+2026-08-13T22:14:52.243463Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:15:15.125662Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=22.886071331s
+2026-08-13T22:15:22.941674Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:16:00.645116Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=37.706316068s
+2026-08-13T22:15:35.740294Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:15:58.931251Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=23.209584455s
+2026-08-13T22:16:20.439505Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:16:48.037778Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=27.666328023s
+2026-08-13T22:16:23.145751Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:16:56.791145Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=33.648162516s
+2026-08-13T22:17:08.325621Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:17:31.685374Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=23.363525195s
+2026-08-13T22:05:20.349726Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:05:49.435486Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=29.088335021s
+2026-08-13T22:17:24.267051Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:17:50.428888Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=26.263685187s
+2026-08-13T22:17:23.610560Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:17:54.732506Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=31.124516182s
+2026-08-13T22:17:53.383165Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:18:23.417346Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=30.038172409s
+2026-08-13T22:18:23.693278Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:18:47.971737Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=24.281093976s
+2026-08-13T22:18:23.531285Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:18:51.486319Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=27.958032218s
+2026-08-13T22:18:44.633434Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:19:09.236959Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=24.607468457s
+2026-08-13T22:19:29.778409Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:19:56.023927Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=26.249398858s
+2026-08-13T22:19:24.051788Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:20:03.124155Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=39.074843978s
+2026-08-13T22:19:23.988670Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:19:52.449401Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=28.463537426s
+2026-08-13T22:20:16.386913Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:20:40.037066Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=23.654073819s
+2026-08-13T22:06:20.336675Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:06:55.556194Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=35.22338375s
+2026-08-13T22:20:24.243414Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:20:58.985646Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=34.745681327s
+2026-08-13T22:20:24.434145Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:20:51.844672Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=27.500689645s
+2026-08-13T22:21:00.371087Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:21:45.455623Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=45.089042016s
+2026-08-13T22:21:24.424641Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:21:54.722501Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=30.300572409s
+2026-08-13T22:21:24.384857Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:21:49.199977Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=24.817830722s
+2026-08-13T22:22:08.212355Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:22:36.772377Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=28.62326079s
+2026-08-13T22:22:20.099064Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:22:44.558971Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=24.557316934s
+2026-08-13T22:22:24.760932Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:23:00.866244Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=36.107686712s
+2026-08-13T22:22:24.484852Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:22:59.827827Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=35.345718948s
+2026-08-13T22:23:00.912568Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:23:23.175202Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=22.266598087s
+2026-08-13T22:07:18.231608Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:07:44.443663Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=26.21586525s
+2026-08-13T22:08:07.024461Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:08:33.090544Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=26.069856564s
+2026-08-13T22:08:55.759111Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:09:20.654839Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=24.899627632s
+2026-08-13T22:09:43.335517Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:10:09.973873Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=26.642170134s
+2026-08-13T22:10:32.689855Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:10:58.228223Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=25.557208708s
+2026-08-13T22:11:25.132297Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=Transform
+2026-08-13T22:11:53.120001Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=32.005264937s
+2026-08-13T22:47:45.130847Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=MinhashHist
+2026-08-13T22:51:05.560860Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=200.432846153s
+2026-08-13T22:52:58.219068Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T22:54:04.955438Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=66.835641067s
+2026-08-13T22:52:58.219070Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T22:54:15.804343Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=77.684555642s
+2026-08-13T22:58:59.698696Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:00:13.849168Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=74.199294747s
+2026-08-13T22:59:22.194583Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:00:55.403512Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=93.211646931s
+2026-08-13T23:02:45.637288Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:03:46.785148Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=61.150866348s
+2026-08-13T23:00:51.651803Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:02:19.653216Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=88.105247794s
+2026-08-13T23:02:45.638195Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:03:48.660156Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=63.025694119s
+2026-08-13T23:02:45.979217Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:04:14.131352Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=88.240768385s
+2026-08-13T23:02:45.979215Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:03:43.500154Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=57.609563531s
+2026-08-13T23:02:45.979208Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:03:48.977823Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=63.087239478s
+2026-08-13T23:02:42.728056Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:04:07.440222Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=84.7161724s
+2026-08-13T23:03:47.047289Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:04:45.037305Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=57.992920607s
+2026-08-13T22:54:08.992301Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T22:55:25.642306Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=76.652931923s
+2026-08-13T23:03:51.029004Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:04:48.579377Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=57.564003704s
+2026-08-13T23:03:52.557465Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:05:15.013805Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=82.459572162s
+2026-08-13T23:03:52.490406Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:05:01.023422Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=68.537104199s
+2026-08-13T23:04:17.807778Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:05:14.813335Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=57.008620232s
+2026-08-13T23:04:30.459049Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:05:39.329991Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=68.874837622s
+2026-08-13T23:04:48.640417Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:05:48.543097Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=59.905617858s
+2026-08-13T23:04:53.062467Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:05:55.020897Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=62.012537837s
+2026-08-13T23:05:05.136677Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:06:27.480593Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=82.346599554s
+2026-08-13T23:05:18.192996Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:06:25.441005Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=67.250646636s
+2026-08-13T23:05:18.857252Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:06:24.319828Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=65.465559247s
+2026-08-13T22:54:19.843432Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T22:55:42.119080Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=82.27859961s
+2026-08-13T23:05:51.929875Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:07:12.248405Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=80.321288084s
+2026-08-13T23:08:49.438392Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:09:57.369776Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=68.028818094s
+2026-08-13T23:05:59.085944Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:07:47.057282Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=107.974317907s
+2026-08-13T23:06:28.188039Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:07:49.532698Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=81.347857019s
+2026-08-13T23:06:28.967173Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:07:28.223638Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=59.259270589s
+2026-08-13T23:06:31.011254Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:07:34.630038Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=63.621664855s
+2026-08-13T23:07:15.876763Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:08:13.737076Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=57.862768621s
+2026-08-13T23:07:31.657909Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:08:52.580867Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=80.925715246s
+2026-08-13T23:07:38.028740Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:08:52.129452Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=74.103500654s
+2026-08-13T23:07:52.066747Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T23:08:44.090670Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=52.026649945s
+2026-08-13T22:55:29.556901Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T22:56:42.460921Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=72.907097214s
+2026-08-13T22:55:46.151782Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T22:56:46.899969Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=60.751338441s
+2026-08-13T22:56:46.540298Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T22:57:55.262501Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=68.725188283s
+2026-08-13T22:56:50.827713Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T22:57:53.455975Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=62.63139562s
+2026-08-13T22:57:57.656303Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T22:58:55.539427Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=57.8860224s
+2026-08-13T22:57:58.896616Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:136: Running Bascet version="1.0.0-beta.3" command=DetectKmerFq
+2026-08-13T22:59:18.582757Z  INFO main ThreadId(01) bascet: crates/bascet-cli/src/main.rs:197: Success! elapsed=79.689545943s

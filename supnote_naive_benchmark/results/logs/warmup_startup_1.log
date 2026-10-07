@@ -1,0 +1,74 @@
+Looking to launch executable "/home/mahogny/miniconda3/bin/bwa-mem2.avx512bw", simd = .avx512bw
+Launching executable "/home/mahogny/miniconda3/bin/bwa-mem2.avx512bw"
+-----------------------------
+Executing in AVX512 mode!!
+-----------------------------
+* SA compression enabled with xfactor: 8
+* Ref file: /husky/henriksson/atrandi/bwamem_ref/human_phi_xantham/all.fa
+* Entering FMI_search
+* Index file found. Loading index from /husky/henriksson/atrandi/bwamem_ref/human_phi_xantham/all.fa.bwt.2bit.64
+* Reference seq len for bi-index = 6244749903
+* sentinel-index: 3416214517
+* Count:
+0,	1
+1,	1848648034
+2,	3122374952
+3,	4396101870
+4,	6244749903
+
+* Reading other elements of the index from files /husky/henriksson/atrandi/bwamem_ref/human_phi_xantham/all.fa
+* Index prefix: /husky/henriksson/atrandi/bwamem_ref/human_phi_xantham/all.fa
+* Read 0 ALT contigs
+* Done reading Index!!
+* Reading reference genome..
+* Binary seq file = /husky/henriksson/atrandi/bwamem_ref/human_phi_xantham/all.fa.0123
+* Reference genome size: 6244749902 bp
+* Done reading reference genome !!
+
+------------------------------------------
+1. Memory pre-allocation for Chaining: 1393.3971 MB
+2. Memory pre-allocation for BSW: 2396.1702 MB
+3. Memory pre-allocation for BWT: 773.1418 MB
+------------------------------------------
+* Threads used (compute): 10
+* No. of pipeline threads: 2
+
+[0000] read_chunk: 100000000, work_chunk_size: 0, nseq: 0
+[0000] read_chunk: 100000000, work_chunk_size: 0, nseq: 0
+[0000] Computation ends..
+No. of OMP threads: 10
+Processor is running @1995.567988 MHz
+Runtime profile:
+
+	Time taken for main_mem function: 10.06 sec
+
+	IO times (sec) :
+	Reading IO time (reads) avg: 0.00, (0.00, 0.00)
+	Writing IO time (SAM) avg: 0.00, (0.00, 0.00)
+	Reading IO time (Reference Genome) avg: 3.22, (3.22, 3.22)
+	Index read time avg: 5.80, (5.80, 5.80)
+
+	Overall time (sec) (Excluding Index reading time):
+	PROCESS() (Total compute time + (read + SAM) IO time) : 0.00
+	MEM_PROCESS_SEQ() (Total compute time (Kernel + SAM)), avg: 0.00, (0.00, 0.00)
+
+	 SAM Processing time (sec):
+	--WORKER_SAM avg: 0.00, (0.00, 0.00)
+
+	Kernels' compute time (sec):
+	Total kernel (smem+sal+bsw) time avg: 0.00, (0.00, 0.00)
+		SMEM compute avg: 0.00, (0.00, 0.00)
+		SAL compute avg: 0.00, (0.00, 0.00)
+				MEM_SA avg: 0.00, (0.00, 0.00)
+
+		BSW time, avg: 0.00, (0.00, 0.00)
+
+Important parameter settings: 
+	BATCH_SIZE: 512
+	MAX_SEQ_LEN_REF: 256
+	MAX_SEQ_LEN_QER: 128
+	MAX_SEQ_LEN8: 128
+	SEEDS_PER_READ: 500
+	SIMD_WIDTH8 X: 64
+	SIMD_WIDTH16 X: 32
+	AVG_SEEDS_PER_READ: 64

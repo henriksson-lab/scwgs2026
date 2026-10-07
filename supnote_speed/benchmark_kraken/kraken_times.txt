@@ -1,0 +1,5 @@
+db,method,time
+Standard db,Naive KRAKEN2,8460637
+Standard db,Bascet KRAKEN2,1483
+Standard-8 db,Naive KRAKEN2,10967.16
+Standard-8 db,Bascet KRAKEN2,38.801

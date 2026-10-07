@@ -1,0 +1,322 @@
+/usr/bin/skesa --reads data/reads_10000_R1.fastq.gz,data/reads_10000_R2.fastq.gz --cores 10 --contigs_out /dev/null 
+
+Total mates: 20000 Paired reads: 10000
+Reads acquired in  0.113672s wall, 0.110000s user + 0.000000s system = 0.110000s CPU (96.8%)
+
+Kmer len: 19
+Raw kmers: 2625494 Memory needed (GB): 0.0504095 Memory available (GB): 29.9992 1 cycle(s) will be performed
+Distinct kmers: 434
+Kmer count in  0.132448s wall, 0.810000s user + 0.050000s system = 0.860000s CPU (649.3%)
+Uniq kmers merging in  0.008719s wall, 0.000000s user + 0.010000s system = 0.010000s CPU (114.7%)
+Clipping point: 0 36
+Clipping point: 1 6
+Clipping point: 2 8
+Clipping point: 3 8
+Clipping point: 4 14
+Clipping point: 5 9
+Clipping point: 6 5
+Clipping point: 7 4
+Clipping point: 8 7
+Clipping point: 9 53
+Clipping point: 10 16
+Clipping point: 11 9
+Clipping point: 12 18
+Clipping point: 13 12
+Clipping point: 14 5
+Clipping point: 15 6
+Clipping point: 16 5
+Clipping point: 17 7
+Clipping point: 18 10
+Clipping point: 19 7
+Clipping point: 20 6
+Clipping point: 21 6
+Clipping point: 22 5
+Clipping point: 23 8
+Clipping point: 24 8
+Clipping point: 25 10
+Clipping point: 26 9
+Clipping point: 27 10
+Clipping point: 28 6
+Clipping point: 29 6
+Clipping point: 30 3
+Clipping point: 31 5
+Clipping point: 32 8
+Clipping point: 33 25
+Clipping point: 34 46
+Clipping point: 35 32
+Clipping point: 36 10
+Clipping point: 37 17
+Clipping point: 38 13
+Clipping point: 39 14
+Clipping point: 40 19
+Clipping point: 41 13
+Clipping point: 42 17
+Clipping point: 43 10
+Clipping point: 44 22
+Clipping point: 45 32
+Clipping point: 46 20
+Clipping point: 47 16
+Clipping point: 48 17
+Clipping point: 49 13
+Clipping point: 50 20
+Clipping point: 51 20
+Clipping point: 52 20
+Clipping point: 53 19
+Clipping point: 54 19
+Clipping point: 55 26
+Clipping point: 56 21
+Clipping point: 57 25
+Clipping point: 58 28
+Clipping point: 59 28
+Clipping point: 60 45
+Clipping point: 61 20
+Clipping point: 62 34
+Clipping point: 63 20
+Clipping point: 64 28
+Clipping point: 65 31
+Clipping point: 66 23
+Clipping point: 67 27
+Clipping point: 68 44
+Clipping point: 69 29
+Clipping point: 70 39
+Clipping point: 71 41
+Clipping point: 72 40
+Clipping point: 73 27
+Clipping point: 74 39
+Clipping point: 75 38
+Clipping point: 76 41
+Clipping point: 77 39
+Clipping point: 78 57
+Clipping point: 79 50
+Clipping point: 80 66
+Clipping point: 81 59
+Clipping point: 82 59
+Clipping point: 83 60
+Clipping point: 84 67
+Clipping point: 85 74
+Clipping point: 86 72
+Clipping point: 87 62
+Clipping point: 88 55
+Clipping point: 89 54
+Clipping point: 90 50
+Clipping point: 91 91
+Clipping point: 92 93
+Clipping point: 93 75
+Clipping point: 94 87
+Clipping point: 95 91
+Clipping point: 96 94
+Clipping point: 97 92
+Clipping point: 98 92
+Clipping point: 99 76
+Clipping point: 100 88
+Clipping point: 101 71
+Clipping point: 102 94
+Clipping point: 103 92
+Clipping point: 104 106
+Clipping point: 105 95
+Clipping point: 106 88
+Clipping point: 107 107
+Clipping point: 108 101
+Clipping point: 109 111
+Clipping point: 110 100
+Clipping point: 111 102
+Clipping point: 112 124
+Clipping point: 113 107
+Clipping point: 114 123
+Clipping point: 115 115
+Clipping point: 116 118
+Clipping point: 117 131
+Clipping point: 118 112
+Clipping point: 119 123
+Clipping point: 120 101
+Clipping point: 121 119
+Clipping point: 122 151
+Clipping point: 123 140
+Clipping point: 124 119
+Clipping point: 125 110
+Clipping point: 126 104
+Clipping point: 127 118
+Clipping point: 128 127
+Clipping point: 129 130
+Clipping point: 130 84
+Clipping point: 131 78
+Adapters: 62 Reads before: 20000 Sequence before: 2985494 Reads after: 19964 Sequence after: 2623413 Reads clipped: 6567
+Adapters clipped in  0.182754s wall, 1.160000s user + 0.070000s system = 1.230000s CPU (673.0%)
+Adapter: CCCCCCCCCCCCCCCCCCC 29905
+Adapter: AGATCGGAAGAGCGTCGTG 3181
+Adapter: ACGTGTGCTCTTCCGATCT 3169
+Adapter: GACGTGTGCTCTTCCGATC 3114
+Adapter: ACACGACGCTCTTCCGATC 3100
+Adapter: ATCGGAAGAGCACACGTCT 3053
+Adapter: CAGACGTGTGCTCTTCCGA 2987
+Adapter: ATCGGAAGAGCGTCGTGTA 2986
+Adapter: CGGAAGAGCACACGTCTGA 2930
+Adapter: CTACACGACGCTCTTCCGA 2890
+Adapter: TTCAGACGTGTGCTCTTCC 2888
+Adapter: GAAGAGCACACGTCTGAAC 2848
+Adapter: CCTACACGACGCTCTTCCG 2835
+Adapter: AAGAGCACACGTCTGAACT 2791
+Adapter: CCCTACACGACGCTCTTCC 2785
+Adapter: AGAGCACACGTCTGAACTC 2716
+Adapter: TCCCTACACGACGCTCTTC 2710
+Adapter: AAGAGCGTCGTGTAGGGAA 2648
+Adapter: GAGCACACGTCTGAACTCC 2636
+Adapter: AGAGCGTCGTGTAGGGAAA 2579
+Adapter: AGCACACGTCTGAACTCCA 2577
+Adapter: CTGGAGTTCAGACGTGTGC 2517
+Adapter: ACTGGAGTTCAGACGTGTG 2472
+Adapter: CTTTCCCTACACGACGCTC 2423
+Adapter: ACACGTCTGAACTCCAGTC 2406
+Adapter: AGCGTCGTGTAGGGAAAGA 2360
+Adapter: CACGTCTGAACTCCAGTCA 2351
+Adapter: ACGTCTGAACTCCAGTCAC 2288
+Adapter: CTCTTTCCCTACACGACGC 2275
+Adapter: CGTCTGAACTCCAGTCACG 2233
+Adapter: ACTCTTTCCCTACACGACG 2229
+Adapter: TCGTGACTGGAGTTCAGAC 2187
+Adapter: CACTCTTTCCCTACACGAC 2165
+Adapter: ACACTCTTTCCCTACACGA 2110
+Adapter: CGTGTAGGGAAAGAGTGTA 1956
+Adapter: CTACACTCTTTCCCTACAC 1888
+Adapter: TCTACACTCTTTCCCTACA 1841
+Adapter: ATCTACACTCTTTCCCTAC 1773
+Adapter: TAGGGAAAGAGTGTAGATC 1729
+Adapter: AGATCTACACTCTTTCCCT 1672
+Adapter: GAGATCTACACTCTTTCCC 1632
+Adapter: CGAGATCTACACTCTTTCC 1569
+Adapter: CCGAGATCTACACTCTTTC 1517
+Adapter: AAAGAGTGTAGATCTCGGT 1469
+Adapter: AAGAGTGTAGATCTCGGTG 1446
+Adapter: ACGACGCTCTTCCGATCTC 1414
+Adapter: AGAGTGTAGATCTCGGTGG 1407
+Adapter: ACCACCGAGATCTACACTC 1363
+Adapter: AGTGTAGATCTCGGTGGTC 1326
+Adapter: CGACCACCGAGATCTACAC 1297
+Adapter: TGTAGATCTCGGTGGTCGC 1265
+Adapter: GTAGATCTCGGTGGTCGCC 1227
+Adapter: CTCGTGACTGGAGTTCAGA 1189
+Adapter: CGGCGACCACCGAGATCTA 1162
+Adapter: CCTCGTGACTGGAGTTCAG 1147
+Adapter: TACGGCGACCACCGAGATC 1132
+Adapter: ACGGCGACCACCGAGATCT 1122
+Adapter: TCCTCGTGACTGGAGTTCA 1104
+Adapter: ATACGGCGACCACCGAGAT 1091
+Adapter: CTCCTCGTGACTGGAGTTC 1056
+Adapter: TCTCGGTGGTCGCCGTATC 1054
+Adapter: AACTCCAGTCACGAGGAGA 1022
+
+Kmer len: 21
+Raw kmers: 2226272 Memory needed (GB): 0.0427444 Memory available (GB): 29.9984 1 cycle(s) will be performed
+Distinct kmers: 715496
+Kmer count in  0.110415s wall, 0.660000s user + 0.030000s system = 0.690000s CPU (624.9%)
+Uniq kmers merging in  0.087074s wall, 0.100000s user + 0.070000s system = 0.170000s CPU (195.2%)
+Kmers branching in  0.153660s wall, 1.210000s user + 0.010000s system = 1.220000s CPU (794.0%)
+
+Average read length: 131
+Genome size estimate: 693319
+
+Kmer: 21 Graph size: 715496 Contigs in: 0
+Valley: 0
+
+Mark used kmers in  0.000004s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+Kmers in multiple/single contigs: 0 0
+Fragments before: 7360 629633
+Fragments after: 7304 629613
+New seeds: 3944
+New seeds in  0.713714s wall, 5.870000s user + 0.010000s system = 5.880000s CPU (823.9%)
+Fragments before: 7888 165648
+Fragments after: 7888 165648
+Connectors: 0 Extenders: 7888
+Connections and extensions in  0.119200s wall, 0.670000s user + 0.010000s system = 0.680000s CPU (570.5%)
+Contigs out: 3944 Genome: 244964 N50: 61 L50: 1630
+Assembled in  0.836986s wall, 6.540000s user + 0.020000s system = 6.560000s CPU (783.8%)
+
+
+Average count: 2.1677 Max kmer: 21
+Connected: 7775 ambiguously connected: 11 from 9967 mate pairs
+Connect pairs in  0.553814s wall, 5.200000s user + 0.000000s system = 5.200000s CPU (938.9%)
+
+N50 for inserts: 98
+
+Seed kmers: 0
+Cleaned reads: 19749
+Reads for connection: 19934
+Internal reads: 0
+Reads cleaned in  0.085668s wall, 0.720000s user + 0.000000s system = 0.720000s CPU (840.5%)
+WARNING: iterations are disabled
+
+Connecting mate pairs using kmer length: 21
+Connected: 7775 ambiguously connected: 11 from 9967 mate pairs
+Connect pairs in  0.552873s wall, 5.310000s user + 0.010000s system = 5.320000s CPU (962.2%)
+Totally connected: 7775
+Added notconnected: 22
+
+Kmer len: 25
+Raw kmers: 726902 Memory needed (GB): 0.0139565 Memory available (GB): 29.9861 1 cycle(s) will be performed
+Distinct kmers: 78376
+Kmer count in  0.038241s wall, 0.260000s user + 0.010000s system = 0.270000s CPU (706.1%)
+Uniq kmers merging in  0.013536s wall, 0.000000s user + 0.010000s system = 0.010000s CPU (73.9%)
+Kmers branching in  0.025778s wall, 0.210000s user + 0.000000s system = 0.210000s CPU (814.7%)
+Kmer: 25 Graph size: 78376 Contigs in: 3944
+Valley: 0
+
+Mark used kmers in  0.007490s wall, 0.050000s user + 0.000000s system = 0.050000s CPU (667.5%)
+Kmers in multiple/single contigs: 0 29063
+Fragments before: 868 30498
+Fragments after: 844 30426
+New seeds: 13
+New seeds in  0.053599s wall, 0.310000s user + 0.000000s system = 0.310000s CPU (578.4%)
+Fragments before: 747 22802
+Fragments after: 746 22802
+Connectors: 1 Extenders: 745
+Connections and extensions in  0.028538s wall, 0.170000s user + 0.000000s system = 0.170000s CPU (595.7%)
+Contigs out: 3956 Genome: 246368 N50: 61 L50: 1631
+Assembled in  0.090768s wall, 0.530000s user + 0.000000s system = 0.530000s CPU (583.9%)
+
+
+Kmer len: 61
+Raw kmers: 449948 Memory needed (GB): 0.0129585 Memory available (GB): 29.9841 1 cycle(s) will be performed
+Distinct kmers: 46141
+Kmer count in  0.027021s wall, 0.140000s user + 0.010000s system = 0.150000s CPU (555.1%)
+Uniq kmers merging in  0.010155s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+Kmers branching in  0.018462s wall, 0.160000s user + 0.000000s system = 0.160000s CPU (866.7%)
+Kmer: 61 Graph size: 46141 Contigs in: 3956
+Valley: 0
+
+Mark used kmers in  0.003612s wall, 0.030000s user + 0.000000s system = 0.030000s CPU (830.7%)
+Kmers in multiple/single contigs: 0 16348
+Fragments before: 708 23179
+Fragments after: 697 23179
+New seeds: 0
+New seeds in  0.039094s wall, 0.140000s user + 0.010000s system = 0.150000s CPU (383.7%)
+Fragments before: 693 22991
+Fragments after: 693 22991
+Connectors: 0 Extenders: 693
+Connections and extensions in  0.033845s wall, 0.190000s user + 0.000000s system = 0.190000s CPU (561.4%)
+Contigs out: 1721 Genome: 128780 N50: 64 L50: 677
+Assembled in  0.077406s wall, 0.360000s user + 0.010000s system = 0.370000s CPU (478.0%)
+
+
+Kmer len: 97
+Raw kmers: 207562 Memory needed (GB): 0.00996298 Memory available (GB): 29.9827 1 cycle(s) will be performed
+Distinct kmers: 27476
+Kmer count in  0.018207s wall, 0.080000s user + 0.010000s system = 0.090000s CPU (494.3%)
+Uniq kmers merging in  0.007961s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+Kmers branching in  0.014218s wall, 0.130000s user + 0.000000s system = 0.130000s CPU (914.3%)
+Kmer: 97 Graph size: 27476 Contigs in: 1721
+Valley: 0
+
+Mark used kmers in  0.001356s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+Kmers in multiple/single contigs: 0 6460
+Fragments before: 385 11562
+Fragments after: 373 11562
+New seeds: 0
+New seeds in  0.028583s wall, 0.110000s user + 0.000000s system = 0.110000s CPU (384.8%)
+Fragments before: 368 11278
+Fragments after: 368 11278
+Connectors: 0 Extenders: 368
+Connections and extensions in  0.022879s wall, 0.110000s user + 0.010000s system = 0.120000s CPU (524.5%)
+Contigs out: 229 Genome: 29474 N50: 131 L50: 97
+Assembled in  0.053199s wall, 0.220000s user + 0.010000s system = 0.230000s CPU (432.3%)
+
+DONE
