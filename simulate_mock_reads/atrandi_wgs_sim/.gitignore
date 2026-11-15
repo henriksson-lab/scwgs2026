@@ -1,0 +1,4 @@
+/target/
+*.fastq
+*.fastq.gz
+

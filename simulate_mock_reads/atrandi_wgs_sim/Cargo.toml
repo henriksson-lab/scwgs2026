@@ -1,0 +1,15 @@
+[package]
+name = "atrandi-wgs-sim"
+version = "0.1.0"
+edition = "2024"
+description = "Generate randomly interleaved Atrandi WGS FASTQ pairs for sorting benchmarks"
+
+[dependencies]
+anyhow = "1"
+clap = { version = "4", features = ["derive"] }
+rand = { version = "0.9", features = ["small_rng"] }
+noodles-bgzf = { version = "0.47", features = ["libdeflate"] }
+
+[profile.release]
+lto = "thin"
+

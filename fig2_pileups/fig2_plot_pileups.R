@@ -1,21 +1,15 @@
-library(duckdb)
-library(DBI)
 library(dplyr)
 library(tidyr)
 library(ggplot2)
-library(viridisLite)
 library(patchwork)
-library(ggh4x)
 library(farver)
-library(ggtext)
 library(ggrastr)
 library(tibble)
-library(ggpattern)
 
 source("style.R")
 
-if(FALSE) {
-  source("make_pileups.R")
+if (!exists("pileup.raw")) {
+  source("fig2_make_pileups.R")
 }
 
 
@@ -123,35 +117,36 @@ scale_colour_species <- function(...) scale_colour_manual(values = species.color
 
 # ── Heatmap fill via OKLab interpolation ─────────────────────────────────────
 
+# Use the same OKLab ramp for heatmap pixels and color scale bars.
+pileup.colors <- function(species, cell.norm.depth) {
+  idx       <- match(species, species.order)
+  n.segs    <- length(oklab.stops) - 1L
+  seg.width <- 1 / n.segs
+
+  seg   <- pmin(floor(cell.norm.depth / seg.width), n.segs - 1L)
+  t.seg <- (cell.norm.depth - seg * seg.width) / seg.width
+
+  new.l <- new.a <- new.b <- numeric(length(idx))
+
+  for (s in seq_len(n.segs)) {
+    mask <- seg == (s - 1L)
+    if (!any(mask)) next
+    lo <- oklab.stops[[s]]
+    hi <- oklab.stops[[s + 1L]]
+    t  <- t.seg[mask]
+    i  <- idx[mask]
+    new.l[mask] <- lo[i, "l"] + t * (hi[i, "l"] - lo[i, "l"])
+    new.a[mask] <- lo[i, "a"] + t * (hi[i, "a"] - lo[i, "a"])
+    new.b[mask] <- lo[i, "b"] + t * (hi[i, "b"] - lo[i, "b"])
+  }
+
+  new.rgb <- convert_colour(cbind(l = new.l, a = new.a, b = new.b), from = "oklab", to = "rgb")
+  new.rgb <- pmin(pmax(new.rgb, 0), 255)
+  rgb(new.rgb[, 1], new.rgb[, 2], new.rgb[, 3], maxColorValue = 255)
+}
+
 pileup <- pileup %>%
-  mutate(
-    fill = {
-      idx       <- match(species, species.order)
-      n.segs    <- length(oklab.stops) - 1L
-      seg.width <- 1 / n.segs
-      
-      seg   <- pmin(floor(cell.norm.depth / seg.width), n.segs - 1L)
-      t.seg <- (cell.norm.depth - seg * seg.width) / seg.width
-      
-      new.l <- new.a <- new.b <- numeric(length(idx))
-      
-      for (s in seq_len(n.segs)) {
-        mask <- seg == (s - 1L)
-        if (!any(mask)) next
-        lo <- oklab.stops[[s]]
-        hi <- oklab.stops[[s + 1L]]
-        t  <- t.seg[mask]
-        i  <- idx[mask]
-        new.l[mask] <- lo[i, "l"] + t * (hi[i, "l"] - lo[i, "l"])
-        new.a[mask] <- lo[i, "a"] + t * (hi[i, "a"] - lo[i, "a"])
-        new.b[mask] <- lo[i, "b"] + t * (hi[i, "b"] - lo[i, "b"])
-      }
-      
-      new.rgb <- convert_colour(cbind(l = new.l, a = new.a, b = new.b), from = "oklab", to = "rgb")
-      new.rgb <- pmin(pmax(new.rgb, 0), 255)
-      rgb(new.rgb[, 1], new.rgb[, 2], new.rgb[, 3], maxColorValue = 255)
-    }
-  )
+  mutate(fill = pileup.colors(species, cell.norm.depth))
 
 
 # ── Axis limits ───────────────────────────────────────────────────────────────
@@ -186,9 +181,27 @@ pileup.species.heatmap <- function(g, sp) {
     unique() %>%
     .[. <= x.breaks.max]
   
-  ggplot(df.heat, aes(x = position, y = rank, fill = fill)) +
+  # The normalization maximum differs between MDA and PTA. Label each
+  # bar in original coverage units, with log10(depth + 1) spacing.
+  max.log.depth <- max(df.heat$cell.log.depth)
+  color.values <- seq(0, 1, length.out = 257)
+  color.breaks <- c(0, 0.25, 0.5, 0.75, 1)
+
+  ggplot(df.heat, aes(x = position, y = rank, fill = cell.norm.depth)) +
     rasterise(geom_raster(), dpi = 300, dev = "ragg_png") +
-    scale_fill_identity() +
+    scale_fill_gradientn(
+      colours = pileup.colors(rep(sp, length(color.values)), color.values),
+      values = color.values,
+      limits = c(0, 1),
+      breaks = color.breaks,
+      labels = vapply(10^(color.breaks * max.log.depth) - 1,
+        function(x) format(signif(x, 2), trim = TRUE), character(1)),
+      name = paste0(g, " coverage depth (×)\nlog10(depth + 1) spacing"),
+      guide = guide_colourbar(
+        title.position = "top", barwidth = grid::unit(8, "cm"),
+        barheight = grid::unit(0.4, "cm"), nbin = 256
+      )
+    ) +
     scale_x_continuous(
       breaks = x.breaks,
       labels = function(x) ifelse(x == x.breaks.max, "", paste0(x / 1e6, " Mbp")),
@@ -199,7 +212,10 @@ pileup.species.heatmap <- function(g, sp) {
     theme_forpub(font_scale = 2) +
     theme(
       axis.line          = element_blank(),
-      axis.line.x.bottom = element_line(colour = "#000000", linewidth = 0.25)
+      axis.line.x.bottom = element_line(colour = "#000000", linewidth = 0.25),
+      legend.position = "bottom",
+      legend.title = element_text(size = 16, lineheight = 1.1),
+      legend.text = element_text(size = 12)
     )
 }
 
@@ -309,12 +325,16 @@ for (sp in SPECIES_TOPLOT) {
     message("Skipping ", sp, " no data"); next
   }
   
-  p_heatmap <- (pileup.species.block("MDA", sp) | pileup.species.block("PTA", sp)) +
+  p.mda <- pileup.species.block("MDA", sp)
+  p.pta <- pileup.species.block("PTA", sp)
+  p_heatmap <- (p.mda | p.pta) +
     theme(panel.border = element_blank())
   
   sp.filename <- gsub(" ", "_", tolower(sp))
   ggsave(file.path(PLOT_DIR, paste0("pileup_", sp.filename, ".pdf")), p_heatmap, width = 24, height = 12)
   ggsave(file.path(PLOT_DIR, paste0("pileup_", sp.filename, ".svg")), p_heatmap, width = 24, height = 12)
+  ggsave(file.path(PLOT_DIR, paste0("pileup_", sp.filename, "_mda.svg")), p.mda, width = 12, height = 12)
+  ggsave(file.path(PLOT_DIR, paste0("pileup_", sp.filename, "_pta.svg")), p.pta, width = 12, height = 12)
 }
 
 p_heatmap #666

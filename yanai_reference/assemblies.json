@@ -1,0 +1,29 @@
+[
+  {
+    "key": "ecoli",
+    "species": "Escherichia coli K-12 MG1655",
+    "paper_accession": "GCA_000005845.2",
+    "accession": "GCF_000005845.2",
+    "assembly": "ASM584v2",
+    "stem": "GCF_000005845.2_ASM584v2",
+    "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2"
+  },
+  {
+    "key": "saureus",
+    "species": "Staphylococcus aureus USA300_FPR3757",
+    "paper_accession": "GCF_000013465.1",
+    "accession": "GCF_000013465.1",
+    "assembly": "ASM1346v1",
+    "stem": "GCF_000013465.1_ASM1346v1",
+    "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/013/465/GCF_000013465.1_ASM1346v1"
+  },
+  {
+    "key": "bsubtilis",
+    "species": "Bacillus subtilis 168",
+    "paper_accession": "GCF_000009045.1",
+    "accession": "GCF_000009045.1",
+    "assembly": "ASM904v1",
+    "stem": "GCF_000009045.1_ASM904v1",
+    "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/009/045/GCF_000009045.1_ASM904v1"
+  }
+]

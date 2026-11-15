@@ -1,0 +1,10 @@
+key	accession	filename	bytes	md5	url
+ecoli	GCF_000005845.2	GCF_000005845.2_ASM584v2_genomic.fna.gz	1379902	c13d459b5caa702ff7e1f26fe44b8ad7	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz
+ecoli	GCF_000005845.2	GCF_000005845.2_ASM584v2_genomic.gff.gz	387627	0f52ffc94af5ddf544ff89cc6f546b0c	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.gff.gz
+ecoli	GCF_000005845.2	GCF_000005845.2_ASM584v2_assembly_report.txt	1112	412317ea727482fc007c07d2d01c09ba	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_assembly_report.txt
+saureus	GCF_000013465.1	GCF_000013465.1_ASM1346v1_genomic.fna.gz	847833	d2d2844a6812fd29d4e453069b93bac7	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/013/465/GCF_000013465.1_ASM1346v1/GCF_000013465.1_ASM1346v1_genomic.fna.gz
+saureus	GCF_000013465.1	GCF_000013465.1_ASM1346v1_genomic.gff.gz	260834	e04bf0281b49a4ea6164695dea7892cf	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/013/465/GCF_000013465.1_ASM1346v1/GCF_000013465.1_ASM1346v1_genomic.gff.gz
+saureus	GCF_000013465.1	GCF_000013465.1_ASM1346v1_assembly_report.txt	1478	c9b6247ddbe125946bb6db7cf89307a8	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/013/465/GCF_000013465.1_ASM1346v1/GCF_000013465.1_ASM1346v1_assembly_report.txt
+bsubtilis	GCF_000009045.1	GCF_000009045.1_ASM904v1_genomic.fna.gz	1248396	87378255941a61ec4b4384af8ba28ff5	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/009/045/GCF_000009045.1_ASM904v1/GCF_000009045.1_ASM904v1_genomic.fna.gz
+bsubtilis	GCF_000009045.1	GCF_000009045.1_ASM904v1_genomic.gff.gz	550736	fac0e3479a5522113eaaa55ec7740ae8	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/009/045/GCF_000009045.1_ASM904v1/GCF_000009045.1_ASM904v1_genomic.gff.gz
+bsubtilis	GCF_000009045.1	GCF_000009045.1_ASM904v1_assembly_report.txt	1318	a0f5297942bdd4743b0594ee0dfd5f94	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/009/045/GCF_000009045.1_ASM904v1/GCF_000009045.1_ASM904v1_assembly_report.txt

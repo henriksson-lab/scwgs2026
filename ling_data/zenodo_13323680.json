@@ -1,0 +1,362 @@
+{
+  "created": "2024-09-27T15:08:19.551675+00:00",
+  "modified": "2025-02-10T13:47:49.287133+00:00",
+  "id": 13323680,
+  "conceptrecid": "13323679",
+  "doi": "10.5281/zenodo.13323680",
+  "conceptdoi": "10.5281/zenodo.13323679",
+  "doi_url": "https://doi.org/10.5281/zenodo.13323680",
+  "metadata": {
+    "title": "Sewage - deep sequencing data",
+    "doi": "10.5281/zenodo.13323680",
+    "publication_date": "2024-08-14",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Ling, Meilee",
+        "affiliation": "Technical University of Denmark",
+        "orcid": "0000-0002-3868-2399"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "High throughput Single Cell Metagenomic Sequencing with Semi-Permeable Capsule: Unraveling Microbial Diversity at the Single-Cell Level in Sewage and Feces Microbiomes",
+        "relation": "isSupplementTo",
+        "resource_type": "dataset",
+        "scheme": "other"
+      }
+    ],
+    "dates": [
+      {
+        "type": "available"
+      }
+    ],
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "journal": {
+      "title": "High throughput single cell metagenomic sequencing with semi-permeable capsules: unraveling microbial diversity at the single-cell level in sewage and fecal microbiomes"
+    },
+    "alternate_identifiers": [
+      {
+        "identifier": "10.3389/fmicb.2024.1516656"
+      }
+    ],
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "13323679"
+          }
+        }
+      ]
+    }
+  },
+  "title": "Sewage - deep sequencing data",
+  "links": {
+    "self": "https://zenodo.org/api/records/13323680",
+    "self_html": "https://zenodo.org/records/13323680",
+    "preview_html": "https://zenodo.org/records/13323680?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.13323680",
+    "self_doi": "https://doi.org/10.5281/zenodo.13323680",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.13323680",
+    "reserve_doi": "https://zenodo.org/api/records/13323680/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/13323679",
+    "parent_html": "https://zenodo.org/records/13323679",
+    "parent_doi": "https://doi.org/10.5281/zenodo.13323679",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.13323679",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:13323680/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:13323680/sequence/default",
+    "files": "https://zenodo.org/api/records/13323680/files",
+    "media_files": "https://zenodo.org/api/records/13323680/media-files",
+    "latest": "https://zenodo.org/api/records/13323680/versions/latest",
+    "latest_html": "https://zenodo.org/records/13323680/latest",
+    "versions": "https://zenodo.org/api/records/13323680/versions",
+    "draft": "https://zenodo.org/api/records/13323680/draft",
+    "access_links": "https://zenodo.org/api/records/13323680/access/links",
+    "access_grants": "https://zenodo.org/api/records/13323680/access/grants",
+    "access_users": "https://zenodo.org/api/records/13323680/access/users",
+    "access_request": "https://zenodo.org/api/records/13323680/access/request",
+    "access": "https://zenodo.org/api/records/13323680/access",
+    "communities": "https://zenodo.org/api/records/13323680/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/13323680/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/13323680/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/13323680/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/13323680/quota-increase",
+    "requests": "https://zenodo.org/api/records/13323680/requests"
+  },
+  "updated": "2025-02-10T13:47:49.287133+00:00",
+  "recid": "13323680",
+  "revision": 6,
+  "files": [
+    {
+      "id": "d1a8df6d-7905-4238-ad4b-8661b96ad893",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNAGATACCG_R1.trim.fastq.gz",
+      "size": 1838868434,
+      "checksum": "md5:7751ba62b1b60f34cb0b683f29623733",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNAGATACCG_R1.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "13b294ad-5ff0-47dc-81fc-7a796b33e839",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNATGTCTGC_R2_bc.fastq.gz",
+      "size": 119507566,
+      "checksum": "md5:236a81a8cb04df99c358c70ab8b1143a",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNATGTCTGC_R2_bc.fastq.gz/content"
+      }
+    },
+    {
+      "id": "27463ff7-8182-4d41-9da4-1448039c18fa",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGATGGTCT_R2_frag.trim.fastq.gz",
+      "size": 3333805209,
+      "checksum": "md5:f7f153df61589660b194b6e6b3ea5974",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGATGGTCT_R2_frag.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "e89b4d8e-2eb3-4769-b995-1a664876e7d6",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGCAGACTA_R1.trim.fastq.gz",
+      "size": 2143007843,
+      "checksum": "md5:ad324a6a4c22dcf65d3df0994d887029",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGCAGACTA_R1.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "bab271da-c3e8-4da2-a30b-6fab3ca19bdd",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTCCTCAAC_R1.trim.fastq.gz",
+      "size": 910284427,
+      "checksum": "md5:a0f92c2969bc86b26bcc8805adbd09f3",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTCCTCAAC_R1.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "b611dbcf-bbdc-43b7-8a1c-dc9040d2e49c",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTGATTCGG_R2_bc.fastq.gz",
+      "size": 147932739,
+      "checksum": "md5:8de527da84d182276fa815c4ed22bc38",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTGATTCGG_R2_bc.fastq.gz/content"
+      }
+    },
+    {
+      "id": "c4d0a23e-8c52-451a-8310-a4dbab32ecb7",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTGATTCGG_R1.trim.fastq.gz",
+      "size": 529911011,
+      "checksum": "md5:dcd50baa34216c9232d12822f7634361",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTGATTCGG_R1.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "41443b48-211e-4daa-8ae0-10c5da76e8cc",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNAGATACCG_R2_bc.fastq.gz",
+      "size": 485272619,
+      "checksum": "md5:012a5022fefa66c7002ca1bfcafb7425",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNAGATACCG_R2_bc.fastq.gz/content"
+      }
+    },
+    {
+      "id": "27bee86c-a62f-4428-afbf-ec34cdaf1983",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNAGATACCG_R2_frag.trim.fastq.gz",
+      "size": 1809847328,
+      "checksum": "md5:217f8971b1dad747d11489f5347e977e",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNAGATACCG_R2_frag.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "3cdd09c3-9d25-4ca1-9df5-10aab17f11f3",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNATGTCTGC_R1.trim.fastq.gz",
+      "size": 440163631,
+      "checksum": "md5:7fa9982dabaffede5411dba83a0d05a6",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNATGTCTGC_R1.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "cf34fe0d-f730-4113-b821-a8460e9327ab",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGATGGTCT_R1.trim.fastq.gz",
+      "size": 3397916960,
+      "checksum": "md5:1dc462fe42b36605e450e596c65ee19f",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGATGGTCT_R1.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "e8f41169-2981-4a58-889b-9872a26d64ac",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGTATTGCC_R2_frag.trim.fastq.gz",
+      "size": 624727321,
+      "checksum": "md5:3b78e30a392d58addccfe0222154fb60",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGTATTGCC_R2_frag.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "4cac9769-3b96-444e-ae3f-fa9599fc9325",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNCAGCAACT_R2_frag.trim.fastq.gz",
+      "size": 1924543668,
+      "checksum": "md5:44b8ea96d4a2398368a96beffc490476",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNCAGCAACT_R2_frag.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "01b86e5d-525b-49ff-8ed5-a6aebfdca0ba",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGTGACTCT_R2_frag.trim.fastq.gz",
+      "size": 4271488319,
+      "checksum": "md5:e904cafba68f915963ead545f6f12e09",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGTGACTCT_R2_frag.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "1d31cf8a-5ab0-4a4e-8777-0d4a4d9d8017",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNATGTCTGC_R2_frag.trim.fastq.gz",
+      "size": 433073278,
+      "checksum": "md5:35cdce779f0ed992823e96fc8697c327",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNATGTCTGC_R2_frag.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "4fa55f4a-abbc-4907-a074-67b03d242b73",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNCAGCAACT_R1.trim.fastq.gz",
+      "size": 1980024018,
+      "checksum": "md5:20023572db6811607d06b4c26af74d89",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNCAGCAACT_R1.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "4f7e3f8d-836f-4d82-97f4-fd64fa7da064",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNCAGCAACT_R2_bc.fastq.gz",
+      "size": 546502465,
+      "checksum": "md5:a58c4e46cdd5f2170077564d01fd5924",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNCAGCAACT_R2_bc.fastq.gz/content"
+      }
+    },
+    {
+      "id": "a4b8b64e-0db5-434b-a698-f5f16f6350d6",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGATGGTCT_R2_bc.fastq.gz",
+      "size": 903706006,
+      "checksum": "md5:6fa1cbb167ca9757a59191c9287c8dac",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGATGGTCT_R2_bc.fastq.gz/content"
+      }
+    },
+    {
+      "id": "71343c48-f6e8-478c-8920-5aae5de609dd",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGTGACTCT_R1.trim.fastq.gz",
+      "size": 4340686741,
+      "checksum": "md5:f63728e9e982678acc3ec0282cc4c4e4",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGTGACTCT_R1.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "2a921bd8-b53d-4697-9db2-05169a5c8efd",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGCAGACTA_R2_bc.fastq.gz",
+      "size": 547152785,
+      "checksum": "md5:31c7f042d610e887b53de181c1de593d",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGCAGACTA_R2_bc.fastq.gz/content"
+      }
+    },
+    {
+      "id": "c58d6ed1-1d6d-4682-b190-5ef94cbc4965",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGCAGACTA_R2_frag.trim.fastq.gz",
+      "size": 2082828273,
+      "checksum": "md5:f83edcf0d6f0367e98c1cb12dfe06b1a",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGCAGACTA_R2_frag.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "656870c5-4762-4b38-90b3-5d9a0b519626",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGTATTGCC_R1.trim.fastq.gz",
+      "size": 645139844,
+      "checksum": "md5:0319e4561e4f3188852d3270d2a3eae0",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGTATTGCC_R1.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "e916e840-5bc8-484c-87e3-cd31910a7912",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGTATTGCC_R2_bc.fastq.gz",
+      "size": 174745236,
+      "checksum": "md5:2d287e18c5df458c99fd4db544c74452",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGTATTGCC_R2_bc.fastq.gz/content"
+      }
+    },
+    {
+      "id": "28d0e105-4d3e-43ef-906e-55d151ac32fd",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTCCTCAAC_R2_bc.fastq.gz",
+      "size": 250858342,
+      "checksum": "md5:f61f2244e0d141b2d9ea579ea18542d7",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTCCTCAAC_R2_bc.fastq.gz/content"
+      }
+    },
+    {
+      "id": "a7501489-dc58-4b37-8eaf-a39212e3bf56",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGTGACTCT_R2_bc.fastq.gz",
+      "size": 1108754430,
+      "checksum": "md5:9c79e1ef7235c62f2d5e1a3ddb3de96f",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGTGACTCT_R2_bc.fastq.gz/content"
+      }
+    },
+    {
+      "id": "6c32f623-cf58-4e7d-a7ec-9167bea5bdbe",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTCCTCAAC_R2_frag.trim.fastq.gz",
+      "size": 890847270,
+      "checksum": "md5:a68e53b648662073170f9727f25f330e",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTCCTCAAC_R2_frag.trim.fastq.gz/content"
+      }
+    },
+    {
+      "id": "fdea87a5-cd28-4d1b-a763-72b626f60f48",
+      "key": "FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTGATTCGG_R2_frag.trim.fastq.gz",
+      "size": 514461667,
+      "checksum": "md5:abeb69c734d4b52db2b2482a6acebe2b",
+      "links": {
+        "self": "https://zenodo.org/api/records/13323680/files/FS23_NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTGATTCGG_R2_frag.trim.fastq.gz/content"
+      }
+    }
+  ],
+  "swh": null,
+  "owners": [
+    {
+      "id": "1169907"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 311,
+    "unique_downloads": 311,
+    "views": 92,
+    "unique_views": 86,
+    "version_downloads": 311,
+    "version_unique_downloads": 311,
+    "version_unique_views": 86,
+    "version_views": 92
+  },
+  "state": "done",
+  "submitted": true
+}

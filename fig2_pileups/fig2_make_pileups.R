@@ -35,6 +35,17 @@ dbExecute(con, sprintf("
   )
 ", CSV_OPTS, CSV_OPTS))
 
+# Optionally restrict preprocessing to the organisms needed for this render.
+organisms <- Sys.getenv("PILEUP_ORGANISMS", "")
+if (nzchar(organisms)) {
+  organisms <- strsplit(organisms, ",", fixed = TRUE)[[1]]
+  dbExecute(con, paste0(
+    "CREATE TABLE qc_selected AS SELECT * FROM qc_raw WHERE organism_id IN (",
+    paste(dbQuoteString(con, organisms), collapse = ","), ")"
+  ))
+  dbExecute(con, "CREATE OR REPLACE VIEW qc_raw AS SELECT * FROM qc_selected")
+}
+
 # ── Contig offsets ────────────────────────────────────────────────────────────
 
 dbExecute(con, "

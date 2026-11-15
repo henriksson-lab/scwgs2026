@@ -164,7 +164,7 @@ ggsave(file.path(plotDirAll,"fig3_info_kmerHist.pdf"), width = 3, height = 3)
 adata <- adata3 
 
 most_common_kmer <- tail(rownames(adata)[order(rowSums(adata@assays$infokmer))], n=1)
-most_common_kmer
+most_common_kmer # TCCCAAGGGTATGGCTGTTCGCCATTTAAAG
 
 ### Most common KMER
 FeaturePlot(adata, features = most_common_kmer) +   
